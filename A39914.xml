@@ -1,0 +1,2883 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londini quod reliquum, or, Londons remains in Latin and English.</title>
+            <title>Londini quod reliquum. English &amp; Latin</title>
+            <author>Ford, Simon, 1619?-1699.</author>
+         </titleStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39914</idno><idno type="EEBO-CITATION">12255872</idno>
+  <idno type="VID">57464</idno>
+  <idno type="EEBO-PROQUEST">2240956938</idno>
+  
+            <idno type="STC">Wing F1488</idno>
+            <idno type="STC">ESTC R16363</idno>
+            <idno type="OCLC">12255872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A39914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 915:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londini quod reliquum, or, Londons remains in Latin and English.</title>
+                  <title>Londini quod reliquum. English &amp; Latin</title>
+                  <author>Ford, Simon, 1619?-1699.</author>
+               </titleStmt>
+               <extent>[3], 16, [1], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sa. Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Simon Ford.  Cf. Wing and NUC pre-1956.</note>
+                  <note>"Actio in Londini incendarios": 16 p. at end.</note>
+                  <note>Latin and English on opposite pages numbered in duplicate.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fires --  England --  London --  Poetry.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57464:1"/>
+            <pb facs="tcp:57464:1"/>
+            <p>
+               <hi>LONDINI quod RELIQƲƲM.</hi> OR, LONDONS REMAINS: IN <hi>LATIN</hi> and <hi>ENGLISH.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sa: Gellibrand, 1667.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57464:2"/>
+            <pb facs="tcp:57464:2"/>
+            <head>The <hi>Stationer</hi> to the <hi>Reader.</hi>
+            </head>
+            <p>
+               <hi>THat the</hi> Author <hi>of these</hi> Poems <hi>sends them forth with<g ref="char:EOLhyphen"/>out his</hi> Name <hi>or</hi> Face, <hi>or</hi> Commendatory <hi>Verses of his</hi> Friends, <hi>(all which are usually affixed to</hi> those mens Essayes <hi>who desire to be known to the World. under the Cha<g ref="char:EOLhyphen"/>racter of</hi> Ingenioso's;) <hi>is not because he knows any cause to be</hi> ashamed <hi>of them; but because he is of a</hi> Profession <hi>to which</hi> Poetry <hi>is commonly thought, (though not, by any</hi> sober <hi>Persons, an</hi> unlawful <hi>or</hi> disparaging, <hi>yet) no</hi> accu<g ref="char:EOLhyphen"/>mulative <hi>or</hi> honorifick accession: <hi>And upon that account indeed, he is willing (with the</hi> known Painter) <hi>rather to bear the</hi> worlds censures <hi>behind the</hi> Curtain, <hi>than either to tempt the</hi> petulancy <hi>of the</hi> envious, <hi>or</hi> discourage <hi>the</hi> Liberty <hi>of the</hi> Ingenuous Critick, <hi>by a publick owning these recreative products of his</hi> fancy; <hi>which as it ows its</hi> first Birth <hi>to the potent Impression of the late dismal</hi> Confla<g ref="char:EOLhyphen"/>gration, <hi>and present doleful</hi> Ruines <hi>of this</hi> Famous City; <hi>so desires to spend its</hi> last Breath <hi>in</hi> Congratulating <hi>its</hi> Re<g ref="char:EOLhyphen"/>stitution <hi>After which, if he can by any means get himself rid of this</hi> Itch <hi>of</hi> versifying, <hi>(a</hi> disease, <hi>in common expe<g ref="char:EOLhyphen"/>rience, not so easily</hi> cured <hi>as</hi> caught,) <hi>he resolves for the fu<g ref="char:EOLhyphen"/>ture, to be known only by the more</hi> proper <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lues <hi>of his</hi> Function, <hi>which he may</hi> Father <hi>with more</hi> confidence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:57464:3"/>
+            <div xml:lang="lat" type="version">
+               <head>
+                  <hi>LONDINI</hi> quod <hi>RELIQƲƲM.</hi> Ad virum <hi>Doctissimum,</hi> eundem{que} <hi>Amicissimum, GƲILIELMƲM LANGHAM,</hi> M. D.</head>
+               <lg>
+                  <l>PIcta <hi>parentali</hi> Londini funera <hi>Versu</hi>
+                  </l>
+                  <l>
+                     <hi>Qui legis, &amp;</hi> tepido <hi>proluis</hi> Imbre <hi>genas:</hi>
+                  </l>
+                  <l>Parce, <hi>precor,</hi> lacrimis, <hi>abstersa{que} sordibus or a Exhilara;</hi> Phaebo <hi>laeta jubente cano.</hi>
+                  </l>
+                  <l>Collige Relliquias, nudata{que} <hi>carnibus</hi> ossa</l>
+                  <l>
+                     <hi>Dixerat, &amp; gremio conde,</hi> Thalia, <hi>tuo;</hi>
+                  </l>
+                  <l>Faecundos cineres <hi>ut nostris condimus Ʋlnis,</hi>
+                  </l>
+                  <l>Haeres <hi>ipsa</hi> sibi <hi>queis reparatur</hi> Avis:</l>
+                  <l>
+                     <hi>Nam{que}</hi> suis, <hi>Me Vate, itidem</hi> nova Troja <hi>resurget</hi>
+                  </l>
+                  <l>
+                     <hi>E</hi> Tumulis, Versu <hi>mox celebranda</hi> tuo.</l>
+                  <l>Paret; <hi>at</hi> incensam <hi>Instrans dum circuit</hi> Urbem,</l>
+                  <l>Ardet, <hi>&amp;</hi> alterno <hi>claudicat inde</hi> Pede.</l>
+                  <l>
+                     <hi>Sed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ua solantur</hi> mancam <hi>spectacula</hi> Musam;</l>
+                  <l>
+                     <hi>At{que} ait, haec</hi> nostri Carminis instar <hi>habent.</hi>
+                  </l>
+                  <l>Im<gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>bus{que} <hi>manent dum</hi> Tecta <hi>immista</hi> ruinis,</l>
+                  <l>Impare <hi>item</hi> Versu <hi>par fuit illa cani.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:57464:4"/>
+                  <l>
+                     <hi>Tu tamen interea,</hi> Soboles Phoebea, <hi>faveto,</hi>
+                  </l>
+                  <l>
+                     <hi>Qui</hi> morbos <hi>succis,</hi> dira{que} fata <hi>fugas;</hi>
+                  </l>
+                  <l>
+                     <hi>Leniter &amp;</hi> medica <hi>tractes mea</hi> vulnera Dextra;</l>
+                  <l>
+                     <hi>At{que}</hi> Machaonia, <hi>qua potes,</hi> Arte <hi>juves.</hi>
+                  </l>
+                  <l>
+                     <hi>Sic</hi> captiva <hi>tuos ornet</hi> Libitina <hi>Triumphos,</hi>
+                  </l>
+                  <l>
+                     <hi>Dum scquitur</hi> Currus <hi>funere rapta</hi> Salus.</l>
+               </lg>
+               <lg>
+                  <l>ERrabunda <hi>premens quas</hi> noverat <hi>ante</hi> Plateas,</l>
+                  <l>
+                     <hi>Quaerit</hi> Virgo <hi>oculis</hi> pristina signa <hi>suis.</hi>
+                  </l>
+                  <l>
+                     <hi>Dum</hi> nusquam apparent, <hi>(ne sit suspecta</hi> rogando,</l>
+                  <l>Ficta{que} <hi>ab irata</hi> crimina <hi>plebe luat;)</hi>
+                  </l>
+                  <l>
+                     <hi>Qua</hi> videt; <hi>(&amp; per cuncta videt)</hi> discurrere Cives,</l>
+                  <l>Jungitur, <hi>&amp; mistis devia</hi> miscet Iter;</l>
+                  <l>Observans{que} <hi>simul</hi> sparsas <hi>per compita</hi> voces,</l>
+                  <l>Ignotos <hi>populi discit ab ore</hi> locos.</l>
+               </lg>
+               <lg>
+                  <l>Haec, <hi>aiunt,</hi> PAULINA <hi>fuit</hi> venerabilis Aedes,</l>
+                  <l>
+                     <hi>Nec toto moles</hi> celsior <hi>Orbe fuit.</hi>
+                  </l>
+                  <l>
+                     <hi>Tecta coronabant</hi> Parias <hi>laqueata</hi> columnas;</l>
+                  <l>Pensile <hi>&amp; immenso fornice</hi> Culmen <hi>erat.</hi>
+                  </l>
+                  <l>Area <hi>longa Domum</hi> summam <hi>commisit, &amp;</hi> imam;</l>
+                  <l>Clivus <hi>&amp; in</hi> plana <hi>est surgere visus</hi> humo.</l>
+                  <l>
+                     <hi>Ʋltima{que} in</hi> gracilem <hi>coierunt Marmora</hi> conum,</l>
+                  <l>
+                     <hi>Arte</hi> aciem <hi>a longe decipiente</hi> rudem.</l>
+                  <l>Porticus <hi>occiduos capiebat</hi> splendida <hi>Soles,</hi>
+                  </l>
+                  <l>
+                     <hi>Ʋnde</hi> rubens <hi>tota fulsit in aede</hi> jubar.</l>
+                  <l>Materiam <hi>ingenio vicit</hi> sculptura <hi>sagaci;</hi>
+                  </l>
+                  <l>
+                     <hi>Et celebre</hi> impositis Regibus <hi>anxit opus.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:57464:5"/>
+                  <l>
+                     <hi>Sed simulac fuer at</hi> nimiis fervoribus <hi>ustum,</hi>
+                  </l>
+                  <l>Dissiliens <hi>rimas undi{que}</hi> Marmor <hi>agit.</hi>
+                  </l>
+                  <l>Impositae{que} <hi>ruunt dum vasto pondere</hi> moles,</l>
+                  <l>Nativas <hi>repetunt vi penetrante,</hi> domos.</l>
+                  <l>
+                     <hi>Quae{que} manent,</hi> rapido <hi>nutant</hi> erosa calore,</l>
+                  <l>Exesas rupes <hi>ut</hi> maris Unda <hi>cavat:</hi>
+                  </l>
+                  <l>
+                     <hi>Et veluti saeva</hi> quercum <hi>caedente</hi> dolabra,</l>
+                  <l>Assula <hi>ab impacto</hi> Vulnere <hi>multa</hi> cadit.</l>
+                  <l>Haec <hi>fuerant, alii,</hi> FIDEI Penetralia, <hi>dicunt,</hi>
+                  </l>
+                  <l>Fornicibus lapsis <hi>est</hi> tumulata Fides.</l>
+                  <l>
+                     <hi>Et</hi> periere <hi>simul</hi> doctae <hi>concredita</hi> Turbae</l>
+                  <l>Pignora, <hi>fatali prodita</hi> Praeda rogo.</l>
+                  <l>
+                     <hi>Ʋnde</hi> ambusta, <hi>(Velut</hi> Cumeae <hi>Oracla</hi> Sibyllae)</l>
+                  <l>Sparsa <hi>procul Ventis</hi> Pagina docta <hi>fuit.</hi>
+                  </l>
+                  <l>Ista Ruina <hi>tegit</hi> Pluteos, <hi>ubi</hi> scripta Vetusta</l>
+                  <l>
+                     <hi>Versavit</hi> tremula <hi>Turba minuta</hi> manu.</l>
+                  <l>Prostabant <hi>istis</hi> Musarum scrinia Cellis:</l>
+                  <l>Ars <hi>alibi</hi> in pretio <hi>non fuit ulla magis.</hi>
+                  </l>
+               </lg>
+               <div type="part">
+                  <head>Sacra <hi>Ʋlnis</hi> fragmenta <hi>fovet, (sua Damna)</hi> Thalia; <hi>Dixit &amp; in nostro</hi> prima <hi>cubate sinu.</hi>
+                  </head>
+                  <lg>
+                     <l>
+                        <hi>Dum tamen indulget</hi> grato <hi>pia</hi> Musa labori,</l>
+                     <l>
+                        <hi>Colligit &amp;</hi> Gremio <hi>rudera</hi> digna suo:</l>
+                     <l>Integer effossis <hi>visus restare</hi> ruinis</l>
+                     <l>Praesul, <hi>ab</hi> exequiis <hi>cui</hi> tria saecla <hi>fluunt.</hi>
+                     </l>
+                     <l>Integer <hi>&amp;</hi> maneas; <hi>neque sit</hi> crudelior <hi>ipso</hi>
+                     </l>
+                     <l>Turba <hi>tibi</hi> Tumulo, Pontificalis, <hi>ait.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb n="4" facs="tcp:57464:6"/>
+                  <head>
+                     <hi>Dum</hi> Discerpta <hi>illi</hi> venerando Busta profanant; <hi>Ecce!</hi> Reformatis tnta Sepulcra <hi>manent.</hi>
+                  </head>
+                  <lg>
+                     <l>Constitit, <hi>&amp; simul in</hi> vicinas <hi>lumina</hi> clades</l>
+                     <l>
+                        <hi>Volvens, indiciis condolitura suis:</hi>
+                     </l>
+                     <l>HOSPITIUM, CHRISTI <hi>fuer at cui</hi> Nomen <hi>honori,</hi>
+                     </l>
+                     <l>
+                        <hi>Nudato horrendum</hi> vertice, <hi>prima videt.</hi>
+                     </l>
+                     <l>Nobilis, <hi>hic, uni</hi> Paulinae <hi>cesserat</hi> Aedes:</l>
+                     <l>Mole <hi>prior</hi> Pauli, <hi>nulla</hi> nitore <hi>fuit.</hi>
+                     </l>
+                     <l>
+                        <hi>Ornarat{que}</hi> Scholam <hi>largis proventibus auctam</hi>
+                     </l>
+                     <l>
+                        <hi>Munifica</hi> Civis <hi>plurimus</hi> altus <hi>ope.</hi>
+                     </l>
+                     <l>
+                        <hi>Vidit: &amp; ut</hi> surgant, <hi>dixit, tua</hi> Maenia, Christe,</l>
+                     <l>
+                        <hi>Tu pia</hi> prolifico <hi>Rudera conde</hi> sinu.</l>
+                  </lg>
+                  <lg>
+                     <l>Contiguam <hi>ut vidit servatam ex Ignibus</hi> Aedem,</l>
+                     <l>
+                        <hi>In</hi> risum <hi>maerens temper at or a</hi> levem;</l>
+                     <l>
+                        <hi>Et</hi> mutilis, <hi>inquit, merito,</hi> Vulcane, <hi>favebas,</hi>
+                     </l>
+                     <l>Fabula <hi>si claudos dat tibi</hi> vera <hi>pedes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Vestra <hi>prope astiterant</hi> Phoebi Collegia proles:</l>
+                     <l>
+                        <hi>Nec poterant statui</hi> commodiore Loco.</l>
+                     <l>
+                        <hi>Nam{que}</hi> Patris nostri vicum <hi>apte clauserat Amen,</hi>
+                     </l>
+                     <l>Praevia <hi>&amp; ad</hi> Medicos <hi>jusserat ire</hi> prece.</l>
+                     <l>Ignifluas <hi>sed sensit</hi> Amen, <hi>ne{que}</hi> finiit Iras,</l>
+                     <l>
+                        <hi>Nulla{que} erat tanto par</hi> Medicina <hi>malo.</hi>
+                     </l>
+                     <l>
+                        <hi>Surgite, ait, nostri</hi> sacraria <hi>surgite</hi> Phoebi,</l>
+                     <l>
+                        <hi>Et</hi> junctam <hi>rursus sentiat aeger</hi> opem.</l>
+                  </lg>
+                  <lg>
+                     <pb n="5" facs="tcp:57464:7"/>
+                     <l>Proxima <hi>erant quondam</hi> speciosi <hi>culmina</hi> Templi,</l>
+                     <l>
+                        <hi>Nomina Structores</hi> SANCTA SEPULCHRA <hi>dabant.</hi>
+                     </l>
+                     <l>
+                        <hi>Omne tamen</hi> Sanctum <hi>communia Fata</hi> profanant,</l>
+                     <l>
+                        <hi>Tu{que}</hi> Sepulta <hi>Domus Nominis</hi> Omen <hi>habes.</hi>
+                     </l>
+                     <l>
+                        <hi>Ʋna, ferunt,</hi> Campana <hi>manet, quae</hi> morte luenti</l>
+                     <l>Crimina, <hi>in extremis</hi> officiosa <hi>fuit.</hi>
+                     </l>
+                     <l>
+                        <hi>Et maneas, inquit,</hi> flammis{que} erepta, <hi>reposcas</hi>
+                     </l>
+                     <l>Authores <hi>tantae qui modo</hi> stragis <hi>erant.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>OCCIDUAM <hi>hinc cupidis</hi> URBEM <hi>perlustrat Ocellis,</hi>
+                     </l>
+                     <l>
+                        <hi>Exultat{que} simul</hi> Culmina nota <hi>videt.</hi>
+                     </l>
+                     <l>Gratulor <hi>&amp; Vobis,</hi> nostrae miracula Gentis,</l>
+                     <l>
+                        <hi>Dixit, ab</hi> insano <hi>non temerata</hi> Rogo.</l>
+                     <l>
+                        <hi>Agnosco</hi> Petri Cathedram, Regum{que} Sepulchra,</l>
+                     <l>
+                        <hi>Fassa{que}</hi> Mortales <hi>Marmora maesta</hi> Deos.</l>
+                     <l>Atria{que} <hi>augusti consultis clara</hi> Senatus:</l>
+                     <l>Qua{que} <hi>sonant rauci</hi> Jurgia docta <hi>Fori.</hi>
+                     </l>
+                     <l>Caesaream <hi>agnosco sedem, cui</hi> Nobilis Aula</l>
+                     <l>
+                        <hi>A</hi> Domino <hi>splendet</hi> nobilitata suo.</l>
+                     <l>Tutum <hi>&amp; ait,</hi> Dominum <hi>celebris tibi gratulor</hi> Aula,</l>
+                     <l>Tutam <hi>&amp; te</hi> Domino <hi>gratulor</hi> Aula <hi>tuo.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Conversae, <hi>occurrit</hi> discors <hi>sibi</hi> Nomine Vicus,</l>
+                     <l>
+                        <hi>Re,</hi> carus <hi>nimium, Nomine</hi> vilis <hi>erat.</hi>
+                     </l>
+                     <l>
+                        <hi>Cui, (nisi cum magnos celebrabant</hi> Vina <hi>triumphos)</hi>
+                     </l>
+                     <l>Limpida <hi>ab</hi> aurato Fonte <hi>fluebat</hi> aqua.</l>
+                     <l>Discito Justitiam <hi>(flamma dictante)</hi> Platea,</l>
+                     <l>
+                        <hi>Dixit, &amp; e nostro fota</hi> resurge <hi>sinu.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="6" facs="tcp:57464:8"/>
+                     <l>Vicinam <hi>spectans obliquo lumine</hi> Portam,</l>
+                     <l>Fixa <hi>super</hi> palis ossa <hi>manere videt,</hi>
+                     </l>
+                     <l>Inferias Carolo caesas: <hi>ne{que}</hi> Flamma <hi>volebat</hi>
+                     </l>
+                     <l>
+                        <hi>Destitui</hi> exemplis <hi>Crimina tanta</hi> suis.</l>
+                     <l>Musa, manete, <hi>inquit, saeclis</hi> documenta <hi>futuris,</hi>
+                     </l>
+                     <l>
+                        <hi>Et</hi> longas Regum Manibus esse Manus.</l>
+                  </lg>
+                  <lg>
+                     <l>Respexit <hi>pariter quae nomine nota</hi> SIONIS</l>
+                     <l>Atria <hi>sunt tristi</hi> semicremata Rogo.</l>
+                     <l>Gratulor <hi>&amp;</hi> vobis, <hi>dixit, (mea Cura)</hi> Libelli,</l>
+                     <l>Relliquiae stragis <hi>pars</hi> quotacun{que} <hi>manet.</hi>
+                     </l>
+                     <l>Biblia <hi>sed cum sint</hi> Thecis <hi>exuta, precamur,</hi>
+                     </l>
+                     <l>
+                        <hi>Auspiciis surgas</hi> Bibliotheca <hi>novis.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Cella <hi>etiam hic periit</hi> Peragrato <hi>dives</hi> Hymetto,</l>
+                     <l>Florilega <hi>in{que}</hi> favum <hi>mel cumularat</hi> Avis.</l>
+                     <l>Infelix{que} <hi>(inquit)</hi> Volucris, <hi>gentilia Fata</hi>
+                     </l>
+                     <l>
+                        <hi>Agnosco:</hi> Flammis <hi>diripiuntur</hi> APES.</l>
+                     <l>
+                        <hi>Sed</hi> moris <hi>meminisse tamen,</hi> Vulcane, <hi>decebat;</hi>
+                     </l>
+                     <l>
+                        <hi>Ardet</hi> Apis <hi>flamma,</hi> Mella <hi>manere solent.</hi>
+                     </l>
+                     <l>
+                        <hi>Quin, melius, praeter morem,</hi> Dea, (Mulciber <hi>inquit,)</hi>
+                     </l>
+                     <l>Nectare direpto <hi>sedula</hi> vivit Apis:</l>
+                     <l>Vivit Apis, <hi>totam{que} iterum praedabitur</hi> Hyblam,</l>
+                     <l>
+                        <hi>Congeret in{que}</hi> novas <hi>mox</hi> nova Mella Domos.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>At simulac</hi> Critices <hi>collect a Volumina</hi> Sacrae</l>
+                     <l>
+                        <hi>Percipit</hi> infausto <hi>comperiisse</hi> Favo;</l>
+                     <pb n="7" facs="tcp:57464:9"/>
+                     <l>
+                        <hi>Ingemit, &amp;</hi> nostri haec <hi>fuerant</hi> pars <hi>Magna</hi> laboris,,</l>
+                     <l>
+                        <hi>Inquit, &amp; immensi</hi> Causa doloris <hi>erunt.</hi>
+                     </l>
+                     <l>Infelix Bustum, <hi>periit quo tota</hi> Vetustas,</l>
+                     <l>
+                        <hi>At{que} antiqua</hi> novum <hi>rudera</hi> Funus <hi>habent!</hi>
+                     </l>
+                     <l>Caetera <hi>ut admittam</hi> saeclis reparanda futuris</l>
+                     <l>Damna, parem cumulum saecula nulla dabunt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Haud</hi> procul, <hi>excelsis olim</hi> PRAETORIA <hi>pinnis</hi>
+                     </l>
+                     <l>
+                        <hi>Surgebant;</hi> Pario Marmore <hi>fulsit</hi> opus.</l>
+                     <l>
+                        <hi>Alta duo</hi> Aetnei <hi>servabant Atria</hi> Fratres,</l>
+                     <l>Praetexta{que} <hi>frequens splenduit Aula</hi> Toga.</l>
+                     <l>
+                        <hi>Hic populo</hi> Augustus <hi>reddebat Jura</hi> Senatus,</l>
+                     <l>
+                        <hi>Et sua</hi> Praetori sella curulis <hi>erat.</hi>
+                     </l>
+                     <l>
+                        <hi>Sed ne{que}</hi> Vulcanum Juris revetentia <hi>cepit,</hi>
+                     </l>
+                     <l>
+                        <hi>Tuta</hi> satellitio <hi>nec fuit</hi> Aula suo.</l>
+                     <l>
+                        <hi>Vidit, &amp; exurgas, dixit,</hi> speciosior Aula,</l>
+                     <l>
+                        <hi>At{que}</hi> frequens <hi>solita</hi> Curia <hi>lite strepat.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Qua</hi> numerosa <hi>olim doctis pulsantibus</hi> aera</l>
+                     <l>Suaviter <hi>ad</hi> varias <hi>sunt modulata</hi> notas.</l>
+                     <l>
+                        <hi>Qua{que}</hi> repercussos <hi>inverso Turris ab</hi> ARCU</l>
+                     <l>Vibrarat <hi>quondam</hi> Musica Turba sonos:</l>
+                     <l>(Subditus <hi>his</hi> Vulcanus <hi>erat, nam{que}</hi> aere jubente,</l>
+                     <l>
+                        <hi>In tota</hi> prunas <hi>condidit Ʋrbe</hi> cinis)</l>
+                     <l>
+                        <hi>Nunc</hi> elingue <hi>jacet quondam</hi> vocale Metallum,</l>
+                     <l>Ludibrium{que} <hi>Rogis</hi> Arcus inermis <hi>habet.</hi>
+                     </l>
+                     <l>
+                        <hi>Neve</hi> impune <hi>feras, (inquit) tu</hi> Mulciber <hi>ipse</hi>
+                     </l>
+                     <l>
+                        <hi>Mox</hi> alias Voces, altera Tela <hi>dabis.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="8" facs="tcp:57464:10"/>
+                     <l>
+                        <hi>Pergit &amp; ad notam</hi> REGALI NOMINE BURSAM,</l>
+                     <l>
+                        <hi>Et flammae Victor,</hi> Greshame, <hi>dixit,</hi> Ave.</l>
+                     <l>
+                        <hi>Hausit</hi> Opus <hi>fateor, (gemitu{que} haec Verba profundo</hi>
+                     </l>
+                     <l>
+                        <hi>Protulit)</hi> augustum, magnificum{que}, <hi>Rogus.</hi>
+                     </l>
+                     <l>Restituent <hi>tamen</hi> haec, <hi>nisi fallimur</hi> Atria fratres,</l>
+                     <l>
+                        <hi>Et</hi> strepet <hi>in pinnis</hi> vestra Cicada <hi>novis.</hi>
+                     </l>
+                     <l>Te <hi>quo{que} quam celebrant</hi> condente, Vicaria Bursa,</l>
+                     <l>
+                        <hi>Interea in laudes</hi> visitur <hi>us{que} tuas.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Viderat hic quondam</hi> REGALIA MARMORA <hi>Virgo,</hi>
+                     </l>
+                     <l>
+                        <hi>Quae meminit</hi> numeris <hi>sic cecinisse</hi> suis.</l>
+                     <l>
+                        <hi>Tu</hi> dubio <hi>Haeredi,</hi> CONFESSOR, <hi>Regna relinquis.</hi>
+                     </l>
+                     <l>
+                        <hi>Te</hi> violata <hi>premit, proxime</hi> HAROLDE, fides.</l>
+                     <l>Anglia <hi>deinde</hi> patet VICTORI, <hi>at</hi> clausa cadenti <hi>est</hi>
+                     </l>
+                     <l>Neustria. RUFE, feras <hi>dum</hi> petis, <hi>ipse</hi> peris.</l>
+                     <l>Musa <hi>dedit</hi> Sceptrum HENRICO, Muraena Sepulchrum.</l>
+                     <l>Crux <hi>&amp;</hi> Amor STEPHANO <hi>pulchra</hi> Matilda <hi>fuit.</hi>
+                     </l>
+                     <l>HENRICO Rosamunda <hi>placet formosa</hi> Secundo.</l>
+                     <l>Corde Leo, <hi>ast Agni signa,</hi> RICARDE, <hi>geris.</hi>
+                     </l>
+                     <l>
+                        <hi>Infensum rapuit</hi> Monachi <hi>vindicta</hi> JOHANNEM.</l>
+                     <l>HENRICE <hi>in</hi> Proceres, Tertie, <hi>Bellageris.</hi>
+                     </l>
+                     <l>
+                        <hi>Paruit,</hi> EDVARDO, <hi>conjunctis</hi> Cambria Scotis,</l>
+                     <l>Primo. <hi>At saeva subis Fata,</hi> SECUNDE, veru.</l>
+                     <l>
+                        <hi>Illustrem{que}</hi> Periscelidem, <hi>tu,</hi> TERTIE, tollis,</l>
+                     <l>Privata{que} alter, <hi>morte,</hi> RICARDE, <hi>cadis.</hi>
+                     </l>
+                     <l>Rapta <hi>serunt Bella</hi> HENRICO <hi>Diademata</hi> quarto.</l>
+                     <l>
+                        <hi>Paret Victori</hi> Gallia, QUINTE, <hi>tibi.</hi>
+                     </l>
+                     <pb n="9" facs="tcp:57464:11"/>
+                     <l>
+                        <hi>Excussit</hi> regnata <hi>jugum</hi> Lutetia SEXTI.</l>
+                     <l>
+                        <hi>Regna, bis</hi> EDVARDUS, <hi>subdita,</hi> quartus <hi>habet.</hi>
+                     </l>
+                     <l>Rex Titulo QUINTUS <hi>fuerat: quo,</hi> tertie, <hi>caeso,</hi>
+                     </l>
+                     <l>Rex Titulo vacuus, <hi>Sceptra,</hi> RICARDE, <hi>rapis.</hi>
+                     </l>
+                     <l>
+                        <hi>Tu,</hi> mistis, HENRICE, Rosis <hi>tibi,</hi> Septime, <hi>firmas</hi>
+                     </l>
+                     <l>Imperia. OCTAVO. Papa, <hi>jubente, fugit.</hi>
+                     </l>
+                     <l>
+                        <hi>Praepropera</hi> EDVARDO Pietas <hi>&amp;</hi> Funera Sexto.</l>
+                     <l>
+                        <hi>Innocuo</hi> rubuit <hi>sanguine</hi> saeva SOROR.</l>
+                     <l>Virginitas, Pietas, Pax, Copia, gloria ELISAE.</l>
+                     <l>Pax, Pietas, Artes, <hi>docte</hi> JACOBE, <hi>tua.</hi>
+                     </l>
+                     <l>Martyrii <hi>titulo tu</hi> solus, CAROLE, <hi>fulges.</hi>
+                     </l>
+                     <l>Clementis <hi>Titulum</hi> CAROLUS alter <hi>habet.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Sparsa <hi>tot in cumulos</hi> Regum fragmenta Thalia,</l>
+                     <l>Manca{que} membra <hi>simul,</hi> trunca{que} Sceptra <hi>videns,</hi>
+                     </l>
+                     <l>Vestra, <hi>ait, hac</hi> (Reges) <hi>referuntur</hi> Imagine Fata,</l>
+                     <l>Ficta{que} <hi>par Vobis</hi> Marmora <hi>funus habent.</hi>
+                     </l>
+                     <l>Fata <hi>tamen</hi> CAROLO <hi>sint</hi> segnia: <hi>sana senectus</hi>
+                     </l>
+                     <l>Obrepat <hi>lento, lento</hi> abitura <hi>Pede:</hi>
+                     </l>
+                     <l>
+                        <hi>Post{que}</hi> suos alio <hi>reparatos</hi> Marmore Patres,</l>
+                     <l>Sera <hi>ipsum ad</hi> Patres <hi>colligat</hi> hora suos.</l>
+                     <l>
+                        <hi>Et fallant</hi> nova <hi>vaniloquos</hi> ostenta <hi>Prophetas;</hi>
+                     </l>
+                     <l>
+                        <hi>Et</hi> lapsus <hi>mendax</hi> Omen <hi>habeto</hi> Lapis:</l>
+                     <l>Exactus{que} <hi>Anno</hi> Numerus ter sextus <hi>in uno,</hi>
+                     </l>
+                     <l>Anti-Monarchistis <hi>somnia</hi> falsa <hi>probet.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Pergere &amp; ad</hi> Thamisin, <hi>(dilect a{que}</hi> flumina Musis <hi>Saepe canunt</hi> Vates) <hi>sollicitavit</hi> Amor.</head>
+                  <pb n="10" facs="tcp:57464:12"/>
+                  <lg>
+                     <l>
+                        <hi>Hic refluas</hi> Moles <hi>augusta</hi> repercutit Undas,</l>
+                     <l>
+                        <hi>At{que}</hi> duplex <hi>solido Fornice</hi> Ripa <hi>coit.</hi>
+                     </l>
+                     <l>
+                        <hi>Summum etiam Pontem</hi> fastigia celsa <hi>coronant,</hi>
+                     </l>
+                     <l>Despicit <hi>At{que} frequens inde</hi> habitator Aquas.</l>
+                     <l>
+                        <hi>Sed</hi> fremit injectas <hi>subterflua lympha</hi> catenas,</l>
+                     <l>
+                        <hi>Et</hi> gemit <hi>obstruct as</hi> fluctibus <hi>esse</hi> vias.</l>
+                     <l>
+                        <hi>Audisti; &amp;</hi> vindex <hi>adero,</hi> (Vulcane) gementi,</l>
+                     <l>
+                        <hi>Dixisti; &amp;</hi> rupto fornice <hi>lympha flues.</hi>
+                     </l>
+                     <l>Parte <hi>tamen</hi> labefactata, <hi>Te,</hi> (Mulciber) <hi>ajunt</hi>
+                     </l>
+                     <l>
+                        <hi>Extemplo incepti</hi> paenituisse <hi>tui.</hi>
+                     </l>
+                     <l>
+                        <hi>Nam</hi> timuisse <hi>ferunt ne</hi> surgeret unda soluta,</l>
+                     <l>
+                        <hi>Et</hi> Thamisis Dominae <hi>libera ferret opem.</hi>
+                     </l>
+                     <l>Musa <hi>videt;</hi> Celebres{que} <hi>premant tua flumina</hi> Moles,</l>
+                     <l>
+                        <hi>Inquit, &amp; us{que} fremens</hi> despiciatur Aqua.</l>
+                     <l>Tu <hi>quoque, queis</hi> prudens <hi>Iras,</hi> Vulcane, <hi>premebas,</hi>
+                     </l>
+                     <l>Invitus <hi>deinceps discito</hi> fraena <hi>pati.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Astiterat</hi> Tabulata Domus, <hi>multo unde</hi> labore</l>
+                     <l>Flumineam <hi>in calices</hi> Antlia <hi>duxit</hi> Aquam.</l>
+                     <l>
+                        <hi>Docta per</hi> anfractus <hi>varios ascendere</hi> Nympha</l>
+                     <l>Daedaleis <hi>solita est Tecta subire</hi> viis.</l>
+                     <l>Mulciber, <hi>at rapidis succumbas</hi> Machina flammis,</l>
+                     <l>
+                        <hi>Dixerat, in clades</hi> ingeniosa <hi>meas.</hi>
+                     </l>
+                     <l>Musa, <hi>gemens periisse</hi> suas <hi>ubi percipit</hi> Artes,</l>
+                     <l>
+                        <hi>Inquit, &amp; artifici</hi> Machina surge <hi>Manu.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Prospicit hinc notum</hi> deterso abdomine Vicum,</l>
+                     <l>
+                        <hi>Ʋnde fuit tanti</hi> Fons <hi>&amp;</hi> Origo <hi>mali.</hi>
+                     </l>
+                     <pb n="11" facs="tcp:57464:13"/>
+                     <l>
+                        <hi>Dixit, &amp;</hi> aeternis <hi>damnatus surge</hi> Cloacis</l>
+                     <l>Viculus, <hi>infamis</hi> nomina Cladis <hi>habens.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Hinc conspect a manet</hi> Castelli Regia Moles.</l>
+                     <l>Arx <hi>est tuta</hi> Loco, <hi>tutior</hi> Arce Locus.</l>
+                     <l>Julius <hi>haec fertur struxisse Palatia</hi> Caesar,</l>
+                     <l>
+                        <hi>Obtineat siquam</hi> Fabula prisca <hi>fidem.</hi>
+                     </l>
+                     <l>
+                        <hi>In latus omne patens</hi> TURRIS <hi>circumspicit Ʋndas,</hi>
+                     </l>
+                     <l>
+                        <hi>Cogit &amp;</hi> Ignivomis <hi>in sua Jura</hi> Minis.</l>
+                     <l>
+                        <hi>Omnimoda hic</hi> Mavortis <hi>erat congesta</hi> supellex,</l>
+                     <l>
+                        <hi>Quae{que}</hi> tegunt <hi>homines Arma, quibus{que}</hi> premunt.</l>
+                     <l>
+                        <hi>Hic quo{que} signantur</hi> Titulis <hi>&amp;</hi> Imagine Regum</l>
+                     <l>Mortales animos <hi>quae Magis</hi> Arma <hi>domant.</hi>
+                     </l>
+                     <l>Praesidio <hi>tutam</hi> Carolus <hi>sibi fecerat</hi> Arcem:</l>
+                     <l>Praesidio <hi>at fuerat tutior illa</hi> Dei.</l>
+                     <l>
+                        <hi>Sed</hi> tremuit <hi>merito tanto</hi> obvallata calore,</l>
+                     <l>
+                        <hi>Cui satis ad Clades</hi> una Favilla <hi>foret:</hi>
+                     </l>
+                     <l>
+                        <hi>Et nisi</hi> divino <hi>superesset</hi> munere <hi>sospes,</hi>
+                     </l>
+                     <l>Flagrassent <hi>uno</hi> Regna Britanna <hi>foco.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>In sua dum</hi> reduces <hi>vertit vestigia</hi> plantas,</l>
+                     <l>
+                        <hi>Spargit &amp; hinc</hi> lacrimas, <hi>spargit &amp; inde</hi> preces.</l>
+                     <l>
+                        <hi>Conspicit</hi> Aurificum <hi>flammis arsisse</hi> Tabernas,</l>
+                     <l>Nomine <hi>ubi</hi> Italico <hi>nota</hi> Platea <hi>fuit.</hi>
+                     </l>
+                     <l>
+                        <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>{que} dedit</hi> Gramen <hi>perituro</hi> Nomina Vico,</l>
+                     <l>
+                        <hi>Non superest tantis</hi> Herba minuta <hi>focis:</hi>
+                     </l>
+                     <l>Gratia <hi>sive dedit</hi> grato <hi>sua</hi> Nomina vico,</l>
+                     <l>
+                        <hi>Nunc superest tantis</hi> Gratia <hi>nulla</hi> Rogis.</l>
+                  </lg>
+                  <lg>
+                     <pb n="12" facs="tcp:57464:14"/>
+                     <l>Angulus <hi>at juxta restat de funere</hi> raptus,</l>
+                     <l>
+                        <hi>In quo</hi> (LANGHAMIDAE) <hi>portio</hi> vestra <hi>fuit.</hi>
+                     </l>
+                     <l>
+                        <hi>Eminet</hi> alta Domus, <hi>quae</hi> tantis obsita <hi>flammis</hi>
+                     </l>
+                     <l>
+                        <hi>Nuper erat, plusquam</hi> Voce, PROPINQUA CRUCI.</l>
+                     <l>Magna Domus, minor <hi>at</hi> Domino, <hi>cui</hi> copia Menti</l>
+                     <l>
+                        <hi>Suppetit, &amp;</hi> magnas <hi>Mens magis ornat</hi> opes.</l>
+                     <l>Larga manus <hi>memores solita est fecisse</hi> merendo;</l>
+                     <l>
+                        <hi>Et sensere</hi> Scholae, <hi>sensit</hi> Egenus <hi>opem.</hi>
+                     </l>
+                     <l>Importuna, <hi>videns, vix</hi> pressit Gaudia <hi>Musa:</hi>
+                     </l>
+                     <l>
+                        <hi>Dum</hi> grave <hi>diducto</hi> Carmen <hi>ab ore sonat.</hi>
+                     </l>
+                     <l>Discite, quam valeant flammas benefacta sopire,</l>
+                     <l>Rursus in Authorem jussa redire suum.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Hic quo{que}</hi> GRESHAMICIS TITULIS COLLEGIA <hi>ful<g ref="char:EOLhyphen"/>gent.</hi>
+                     </l>
+                     <l>Proxima{que} <hi>infames non</hi> tetigere Rogi.</l>
+                     <l>
+                        <hi>Non minus haec</hi> Helicone <hi>suo dilexit</hi> Apollo</l>
+                     <l>
+                        <hi>Atria, &amp;</hi> Aonii <hi>Turba novena</hi> chori.</l>
+                     <l>Omnimoda <hi>e celsis sonat hic</hi> Doctrina Cathedris;</l>
+                     <l>Dotatas{que} <hi>Artes qui</hi> profitentnr, <hi>habent.</hi>
+                     </l>
+                     <l>Philosophi <hi>hic</hi> Regnant, <hi>&amp;</hi> Reges Philosophantur,</l>
+                     <l>(Unica <hi>enim tantis</hi> syllaba danda <hi>Viris)</hi>
+                     </l>
+                     <l>
+                        <hi>Qui</hi> Reges socios <hi>Tituli</hi> splendoribus <hi>aequant,</hi>
+                     </l>
+                     <l>
+                        <hi>Sed faciunt Titulis</hi> splendidiora <hi>suis.</hi>
+                     </l>
+                     <l>Vapulat <hi>hic</hi> veteris <hi>jurata in verba</hi> Magistri</l>
+                     <l>Credulitas, <hi>facili tramite</hi> docta sequi.</l>
+                     <l>
+                        <hi>Hic</hi> celata <hi>diu Natura</hi> Arcana fatetur;</l>
+                     <l>Velatum{que} <hi>nihil quod</hi> tueatur, <hi>habet.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="13" facs="tcp:57464:15"/>
+                     <l>
+                        <hi>Hic formidandam</hi> cataphracti Pulicis Hastam</l>
+                     <l>
+                        <hi>Qui videt in</hi> Tubulo, vulnera magna <hi>timet:</hi>
+                     </l>
+                     <l>
+                        <hi>Quos{que}</hi> leves ictus <hi>compuncta</hi> cuticula <hi>sentit,</hi>
+                     </l>
+                     <l>Majores <hi>dubitat</hi> sensibus <hi>esse</hi> suis.</l>
+                     <l>
+                        <hi>Squameus &amp;</hi> Capitis <hi>spectantes</hi> Incola <hi>terret,</hi>
+                     </l>
+                     <l>
+                        <hi>Nata nec ista putant</hi> Corpore Monstra <hi>suo:</hi>
+                     </l>
+                     <l>
+                        <hi>Dum{que}</hi> unco tenuis <hi>prensatur</hi> Crinis <hi>ab</hi> ungue,</l>
+                     <l>
+                        <hi>Creditur</hi> Herculea Clava <hi>tremenda manu.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Parva <hi>loquor.</hi> Magnum <hi>est, paret quod</hi> sensibus aether,</l>
+                     <l>
+                        <hi>At{que}</hi> oculis, Mentes <hi>quae latuere, patent.</hi>
+                     </l>
+                     <l>
+                        <hi>Tu lustrata,</hi> novis <hi>nunc,</hi> Cynthia, <hi>rupibus</hi> albes,</l>
+                     <l>
+                        <hi>Et</hi> maria <hi>agnoscis qua modo</hi> Dumus <hi>eras.</hi>
+                     </l>
+                     <l>
+                        <hi>In{que} tuo</hi> maculae <hi>spectantur,</hi> Cynthie, <hi>vultu.</hi>
+                     </l>
+                     <l>Falcifer <hi>at{que}</hi> Ansas <hi>queis teneare, geris.</hi>
+                     </l>
+                     <l>
+                        <hi>Tu, quoque,</hi> Mars, <hi>tu</hi> blanda Venus, <hi>tu{que}</hi> aliger Hermes,</l>
+                     <l>
+                        <hi>Cum{que}</hi> Satellitio Jupiter <hi>Ipse tuo;</hi>
+                     </l>
+                     <l>
+                        <hi>Panditis insolita in</hi> tenui <hi>spectacula</hi> Vitro:</l>
+                     <l>
+                        <hi>Nec sunt</hi> Astra <hi>minus</hi> Pulice <hi>nota levi.</hi>
+                     </l>
+                     <l>Tu <hi>que, animo cui</hi> Vota Orbem <hi>fecere</hi> Minorem,</l>
+                     <l>
+                        <hi>Hic fieres</hi> animi <hi>compos, (Avare)</hi> tui:</l>
+                     <l>
+                        <hi>Si modo quae</hi> ignotos patefecit <hi>vitrea</hi> Mundos</l>
+                     <l>Machina, <hi>ad hos</hi> Mundos <hi>&amp; docuisset</hi> Iter.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Quid? quod in</hi> Exiguis <hi>trutinatur</hi> Lancibus Aer,</l>
+                     <l>
+                        <hi>Vertitur &amp;</hi> pluma <hi>justa</hi> Statera <hi>levi?</hi>
+                     </l>
+                     <l>Regna <hi>quod Imperiis parent</hi> Neptunia <hi>doctis,</hi>
+                     </l>
+                     <l>
+                        <hi>Et</hi> fluit <hi>ad</hi> Leges <hi>mobilis unda</hi> Novas?</l>
+                     <pb n="14" facs="tcp:57464:16"/>
+                     <l>
+                        <hi>Certa quod</hi> immensi <hi>capitur</hi> Mensura profundi,</l>
+                     <l>
+                        <hi>Et vacuum posthac</hi> Nomen Abyssus <hi>erit?</hi>
+                     </l>
+                     <l>
+                        <hi>Quod</hi> situla <hi>in salso, quaqua patet,</hi> aequore mersa,</l>
+                     <l>Excluso <hi>hauritur</hi> dulcior <hi>Ʋnda</hi> Sale?</l>
+                     <l>
+                        <hi>Quod mutare Vices</hi> Anni <hi>quo{que}</hi> Tempora <hi>cogunt,</hi>
+                     </l>
+                     <l>Friget <hi>&amp;</hi> aestiva <hi>mista Lagena</hi> nive?</l>
+                     <l>
+                        <hi>Quod</hi> liquefacta <hi>novos acquirit</hi> Terra <hi>fluores,</hi>
+                     </l>
+                     <l>
+                        <hi>In{que}</hi> novas moles <hi>consolidantur</hi> Aquae?</l>
+                     <l>
+                        <hi>Quod</hi> vibrante <hi>fugax</hi> motu <hi>dum praeterit</hi> Hora,</l>
+                     <l>Pendula <hi>Sole Dies certius</hi> aera <hi>secant?</hi>
+                     </l>
+                     <l>
+                        <hi>Mox quo{que}</hi> Marmorea <hi>lapidescent Robora</hi> crusta,</l>
+                     <l>Occludent{que} <hi>suas</hi> Ignibus Arte <hi>vias.</hi>
+                     </l>
+                     <l>
+                        <hi>O utinam</hi> Petris <hi>ita</hi> loricata <hi>fuissent,</hi>
+                     </l>
+                     <l>Materiam flammis <hi>quae modo</hi> Ligna <hi>dabant!</hi>
+                     </l>
+                     <l>Staret <hi>adhuc forsan, ne{que} nostrae</hi> flenda Camoenae</l>
+                     <l>Urbs <hi>fuerat rapidis</hi> Esca <hi>vorata</hi> Rogis.</l>
+                  </lg>
+                  <lg>
+                     <l>Tu <hi>quo{que} quae</hi> versas <hi>cecinisti Musa</hi> figuras,</l>
+                     <l>Materia <hi>hic dives</hi> nobiliore <hi>fores.</hi>
+                     </l>
+                     <l>
+                        <hi>Hic exhausta tumet</hi> peregrino sanguine <hi>Vena,</hi>
+                     </l>
+                     <l>Transmissae{que} Animae non sua Membra <hi>fovent,</hi>
+                     </l>
+                     <l>
+                        <hi>Mox</hi> effoeta <hi>novo calefient</hi> corpora <hi>succo,</hi>
+                     </l>
+                     <l>
+                        <hi>Et</hi> refluet <hi>celeri</hi> pulsa Juventa <hi>pede.</hi>
+                     </l>
+                     <l>Prima{que} <hi>praecipitem accerset</hi> lanugo <hi>senect am,</hi>
+                     </l>
+                     <l>
+                        <hi>Induet &amp;</hi> canas, <hi>Arte jubente,</hi> nives.</l>
+                     <l>Integer <hi>in{que} suum</hi> Pylades <hi>transibit</hi> Orestem,</l>
+                     <l>
+                        <hi>Nec</hi> Pyladi <hi>frustra</hi> nomen Orestis <hi>erit.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="15" facs="tcp:57464:17"/>
+                     <l>
+                        <hi>Forsan &amp;</hi> ambiguo <hi>dum ludunt</hi> Corpore Mentes,</l>
+                     <l>Eludent <hi>docto</hi> ferrea Fata <hi>dolo.</hi>
+                     </l>
+                     <l>
+                        <hi>Quin &amp;</hi> Pastori latrans <hi>famulabitur</hi> Agnus,</l>
+                     <l>Balantes{que} <hi>metent pascua laeta</hi> Canes.</l>
+                     <l>Hinniet, <hi>&amp; fremitu sibi</hi> praelia poscet Asellus,</l>
+                     <l>
+                        <hi>Et</hi> Sonipes raucos <hi>proferet ore</hi> sonos.</l>
+                     <l>
+                        <hi>In{que}</hi> Hominem <hi>dum</hi> grata Jovi <hi>transfunditur</hi> Ales,</l>
+                     <l>
+                        <hi>Mox</hi> laeves Artus <hi>insita</hi> Pluma <hi>teget;</hi>
+                     </l>
+                     <l>
+                        <hi>Et</hi> tibi; <hi>quas frustra tentavit</hi> sutilis Ala,</l>
+                     <l>Icare, <hi>donabit</hi> propria penna <hi>vias.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Denique,</hi> mille <hi>colunt celebrem</hi> Miracula <hi>sedem,</hi>
+                     </l>
+                     <l>
+                        <hi>Quae non sunt</hi> Elegis <hi>concipienda</hi> meis.</l>
+                     <l>Restat: <hi>at</hi> afflatos <hi>vultu</hi> confessa calores</l>
+                     <l>Discolor <hi>a foedo redditur Igne</hi> Domus.</l>
+                     <l>
+                        <hi>Vidit: &amp; hac</hi> una minuis <hi>tot</hi> crimina Laude,</l>
+                     <l>Musa <hi>ait; &amp; veniam</hi> Lemnie, <hi>habeto meam.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Caetera ut invisit tantae</hi> invidiosa ruinae</l>
+                     <l>Fragmina, <hi>&amp;e</hi> Magna <hi>quod super</hi> Urbe <hi>fuit.</hi>
+                     </l>
+                     <l>
+                        <hi>Plurima</hi> tacta <hi>videt flammis</hi> lambentibus, <hi>aegre</hi>
+                     </l>
+                     <l>
+                        <hi>Erepta insano</hi> semicremata <hi>Rogo;</hi>
+                     </l>
+                     <l>Integra pauca, <hi>(Hosti pariter praedanda</hi> relicta)</l>
+                     <l>
+                        <hi>Nunc</hi> Dominis <hi>cumulant</hi> lucra, recepta, <hi>suis.</hi>
+                     </l>
+                     <l>
+                        <hi>Sed</hi> nolite, <hi>monet,</hi> nimio conducta locari;</l>
+                     <l>
+                        <hi>Ne</hi> nova <hi>vos, pressis Fratribus,</hi> Ira <hi>premat,</hi>
+                     </l>
+                     <l>
+                        <hi>Non</hi> vobis <hi>rapidus fecit</hi> stipendia <hi>fervor;</hi>
+                     </l>
+                     <l>
+                        <hi>Sed</hi> Domino Obsequium <hi>praestitit ille</hi> suo.</l>
+                  </lg>
+                  <lg>
+                     <pb n="16" facs="tcp:57464:18"/>
+                     <l>
+                        <hi>Quae{que}</hi> alios <hi>nune</hi> Fata <hi>premunt, &amp;</hi> vestra <hi>fuissent,</hi>
+                     </l>
+                     <l>
+                        <hi>Si</hi> paribus meritis par <hi>quo{que}</hi> poena <hi>foret.</hi>
+                     </l>
+                     <l>Vos <hi>quoque, quae subeunt trepidantes</hi> Rudera <hi>Cives,</hi>
+                     </l>
+                     <l>Murorum{que} <hi>graves mole tumente</hi> Minae;</l>
+                     <l>Auspiciis Coeli <hi>&amp;</hi> CAROLI surgetis: <hi>Erit{que}</hi>
+                     </l>
+                     <l>Nobilior Damnis Urbs rediviva <hi>suis.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="1" facs="tcp:57464:3"/>
+               <head>LONDONS REMAINS <hi>Made English: And</hi> Dedicated <hi>(with some small difference from the</hi> Latin) <hi>to the most Ingenious, and every way hopeful young Lady, Mrs.</hi> MARY LANGHAM.</head>
+               <lg>
+                  <l>ALL you whose <hi>Cheeks</hi> my <hi>LONDONS Obsequies</hi>
+                  </l>
+                  <l>Once <hi>drenched</hi> from your <hi>watry Eyes,</hi>
+                  </l>
+                  <l>Now <hi>drain</hi> those <hi>floated Grounds,</hi> and <hi>damme</hi> their <hi>Spring;</hi>
+                  </l>
+                  <l>I <hi>better News</hi> from <hi>Phaebus</hi> bring.</l>
+                  <l>
+                     <hi>Dear Muse,</hi> said he, <hi>walk</hi> the sad <hi>Round,</hi> and turn</l>
+                  <l>Thy <hi>tender Bosome</hi> to an <hi>Ʋrn;</hi>
+                  </l>
+                  <l>
+                     <hi>Hide</hi> there the <hi>Sacred Dust:</hi> so we <hi>repair</hi>
+                  </l>
+                  <l>The <hi>Bird</hi> that to <hi>himself</hi> is <hi>Heir:</hi>
+                  </l>
+                  <l>And so shall <hi>LONDON</hi> from its <hi>Ruines</hi> spring,</l>
+                  <l>And thou shalt its <hi>Good-morrow</hi> sing.</l>
+                  <l>The <hi>Muse</hi> obey'd; but walking <hi>burnt her foot;</hi>
+                  </l>
+                  <l>(Her <hi>limping Verse</hi> to that impute:)</l>
+                  <l>
+                     <hi>Sad</hi> was the <hi>sight;</hi> yet this I <hi>like,</hi> said she,</l>
+                  <l>
+                     <hi>Poem</hi> and <hi>Subject</hi> both agree:</l>
+                  <l>For, me thinks, whiles <hi>unequal Lines</hi> I payre,</l>
+                  <l>Like <hi>House</hi> and <hi>Ruine</hi> matcht they are.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:57464:4"/>
+                  <l>Her <hi>Round</hi> perform'd, (sweet <hi>Madam)</hi> straight, to you</l>
+                  <l>She <hi>crawles,</hi> with her <hi>Remarks,</hi> as due.</l>
+                  <l>Your <hi>Vertue</hi> first, <hi>Relation,</hi> next, she knows,</l>
+                  <l>Concern you in the <hi>Cityes Woes:</hi>
+                  </l>
+                  <l>And since <hi>she's</hi> told, <hi>[A Ladyes Hand doth Cures]</hi>
+                  </l>
+                  <l>She hopes that <hi>Influence</hi> from <hi>Yours.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>ENtring</hi> the <hi>City</hi> once <hi>exactly known,</hi>
+                  </l>
+                  <l>
+                     <hi>Thalia</hi> found her <hi>marks</hi> were <hi>gone:</hi>
+                  </l>
+                  <l>Whence, loath to <hi>ask</hi> her Way, for fear of <hi>danger,</hi>
+                  </l>
+                  <l>('Twas <hi>death</hi> then to be thought a <hi>stranger,)</hi>
+                  </l>
+                  <l>
+                     <hi>Silent,</hi> she <hi>joyn'd</hi> her self to <hi>every throng,</hi>
+                  </l>
+                  <l>And bade her <hi>ears</hi> supply her <hi>Tongue.</hi>
+                  </l>
+                  <l>In <hi>dumb Procession</hi> thus my <hi>Muse</hi> did <hi>pass;</hi>
+                  </l>
+                  <l>And <hi>common Chat</hi> her <hi>Tutor</hi> was.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>This</hi> was, said some, <hi>PAƲLS Reverend Edifice;</hi>
+                  </l>
+                  <l>The World did not its like comprise.</l>
+                  <l>A <hi>Carved Roof</hi> its <hi>Marble Pillars</hi> crown'd,</l>
+                  <l>And <hi>these</hi> to <hi>that,</hi> vast <hi>Arches</hi> bound.</l>
+                  <l>It's <hi>monstrous length</hi> to the <hi>unlearned sight</hi>
+                  </l>
+                  <l>The <hi>Floor,</hi> and <hi>Cieling</hi> did unite.</l>
+                  <l>Pillars <hi>remote, approach'd,</hi> which <hi>parted, nigh;</hi>
+                  </l>
+                  <l>And each <hi>step up-hill</hi> seem'd to lye.</l>
+                  <l>A <hi>Noble Porch</hi> suck'd in the <hi>Western Ray,</hi>
+                  </l>
+                  <l>And through th' <hi>whole House</hi> did it <hi>display.</hi>
+                  </l>
+                  <l>Whose <hi>richer Art</hi> made the <hi>Materials vile;</hi>
+                  </l>
+                  <l>And with <hi>Two Princes</hi> crown'd the <hi>Pile.</hi>
+                  </l>
+                  <pb n="3" facs="tcp:57464:5"/>
+                  <l>But, so <hi>intense</hi> was the <hi>surrounding Flame,</hi>
+                  </l>
+                  <l>The <hi>Marble gap'd,</hi> and <hi>loos'd</hi> the <hi>Frame.</hi>
+                  </l>
+                  <l>The <hi>Roof,</hi> fail'd by its <hi>Propps, forc'd</hi> into th' <hi>Earth,</hi>
+                  </l>
+                  <l>To seek the <hi>Place</hi> that gave it <hi>Birth.</hi>
+                  </l>
+                  <l>Now nought remains but <hi>Ruines</hi> rudely <hi>torn,</hi>
+                  </l>
+                  <l>Like <hi>Cliffs</hi> which fretting <hi>Waves</hi> have <hi>worn.</hi>
+                  </l>
+                  <l>
+                     <hi>Chipp'd,</hi> like the <hi>rough-hew'd Oak,</hi> when th' <hi>Axe</hi> doth <hi>pare</hi>
+                  </l>
+                  <l>Its <hi>Trunk</hi> to an <hi>uneven Square.</hi>
+                  </l>
+                  <l>These <hi>Vaults</hi> (said others) do St. <hi>Faith</hi> comprise:</l>
+                  <l>
+                     <hi>False Faith!</hi> write on her, <hi>Here she lies.</hi>
+                  </l>
+                  <l>
+                     <hi>Rich Pawns</hi> the <hi>Letter'd Tribe</hi> did there <hi>depose.</hi>
+                  </l>
+                  <l>But a <hi>deceitful Guardian</hi> chose.</l>
+                  <l>Like <hi>Sybylls Leaves,</hi> the <hi>scorched Learning</hi> fell,</l>
+                  <l>
+                     <hi>Scatter'd</hi> by <hi>Winds</hi> too <hi>farre</hi> to <hi>tell.</hi>
+                  </l>
+                  <l>There; <hi>trembling Boyes rubb</hi>'d out their <hi>Authors sense</hi>
+                  </l>
+                  <l>On <hi>studious Thumbs,</hi> then <hi>suck'd</hi> it <hi>thence.</hi>
+                  </l>
+                  <l>The <hi>Muses</hi> in those <hi>Shops</hi> were <hi>woo'd</hi> and <hi>wonne;</hi>
+                  </l>
+                  <l>But <hi>Money</hi> made the <hi>Match</hi> come on.</l>
+               </lg>
+               <div type="part">
+                  <head>This <hi>learn</hi>'d; of all the <hi>Sacred Reliques,</hi> part She <hi>grasp'd,</hi> and laid 'em <hi>next</hi> her <hi>Heart.</hi>
+                  </head>
+                  <lg>
+                     <l>Thus, whiles she <hi>spends</hi> her <hi>charitable pains</hi>
+                     </l>
+                     <l>On <hi>Sacred,</hi> mixt with <hi>Learn'd Remains:</hi>
+                     </l>
+                     <l>Uncas'd, a <hi>Prelate,</hi> (on the <hi>Marbles</hi> Trust)</l>
+                     <l>The <hi>Third Age</hi> since, sent <hi>Dust to Dust,</hi>
+                     </l>
+                     <l>
+                        <hi>Entire</hi> appears; and so, if <hi>Rome,</hi> (said She)</l>
+                     <l>Permit, <hi>entire remains</hi> for <hi>me.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb n="4" facs="tcp:57464:6"/>
+                  <head>Whiles its <hi>Devotion</hi> plunders <hi>Tombs,</hi> 'tis seen, <hi>Protestant Faith</hi>'s their safest <hi>Skreen.</hi>
+                  </head>
+                  <lg>
+                     <l>Here my <hi>Muse</hi> made a <hi>stand,</hi> her <hi>weeping Eye</hi>
+                     </l>
+                     <l>Sent round the <hi>Neighbour-Coast</hi> a <hi>Spye:</hi>
+                     </l>
+                     <l>Where, like a <hi>Wood</hi> devested of its <hi>Lopps,</hi>
+                     </l>
+                     <l>First <hi>CHRIST-CHƲRCH</hi> shew'd its <hi>naked Topps.</hi>
+                     </l>
+                     <l>This <hi>Church,</hi> next <hi>PAƲLS</hi> was fam'd; <hi>PAƲLS</hi> the more wide;</l>
+                     <l>But this with it for <hi>Neatness</hi> vi'd.</l>
+                     <l>And many <hi>poor Boyes</hi> from its <hi>School</hi> had grown</l>
+                     <l>To th' <hi>Honour</hi> of the <hi>Purple Gown.</hi>
+                     </l>
+                     <l>May thy <hi>Celestial Patrons</hi> tender <hi>Care,</hi>
+                     </l>
+                     <l>(Said She) advance thy <hi>quick Repaire.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>bordering Hospital</hi> when <hi>safe</hi> She <hi>view'd,</hi>
+                     </l>
+                     <l>Her <hi>sad Face</hi> to a <hi>smile</hi> she <hi>skrew'd,</hi>
+                     </l>
+                     <l>And said, <hi>Lame Forgeman,</hi> if the <hi>Tale</hi> be <hi>true,</hi>
+                     </l>
+                     <l>This <hi>Mercy</hi> was thy <hi>Brethrens due.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>PHYSICIANS COLLEDG</hi> next, its <hi>Seat</hi> did <hi>Fit,</hi>
+                     </l>
+                     <l>Whether by <hi>Chance</hi> there plac'd, or <hi>Wit.</hi>
+                     </l>
+                     <l>It stood at <hi>Amen, Pater-noster</hi>'s close;</l>
+                     <l>For he needs <hi>pray</hi> that takes a <hi>Dose.</hi>
+                     </l>
+                     <l>A cureless <hi>Causon</hi> did the <hi>Colledg</hi> spend;</l>
+                     <l>Nor did <hi>Amen</hi> its Furyes <hi>end.</hi>
+                     </l>
+                     <l>
+                        <hi>Apollo's Council-house,</hi> said she, <hi>arise:</hi>
+                     </l>
+                     <l>
+                        <hi>Dark Cases</hi> need a <hi>Clubb</hi> of <hi>Eyes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="5" facs="tcp:57464:7"/>
+                     <l>A <hi>lofty Pile▪</hi> (now <hi>humbled)</hi> next appears,</l>
+                     <l>Once <hi>Christ'ned</hi> 'twas <hi>SAINT SEPƲLCHERS:</hi>
+                     </l>
+                     <l>Which since it felt the <hi>all-interring Flame,</hi>
+                     </l>
+                     <l>The <hi>Saint lost,</hi> kept its <hi>empty Name.</hi>
+                     </l>
+                     <l>They tell us hereof <hi>One unmelted Bell,</hi>
+                     </l>
+                     <l>That <hi>toll'd</hi> Condemned <hi>Felons Knell.</hi>
+                     </l>
+                     <l>This <hi>Rumour</hi> heard, <hi>hang</hi> still, said she, to do</l>
+                     <l>That <hi>Work</hi> for <hi>LONDONS FAƲXES</hi> too.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus, <hi>Westward</hi> plac'd, She view'd the <hi>WESTERN TOWN</hi>
+                     </l>
+                     <l>Glad by its <hi>Tops</hi> it might be <hi>known:</hi>
+                     </l>
+                     <l>And, <hi>(Englands Gloryes)</hi> I congratulate</l>
+                     <l>To <hi>you,</hi> (She said) your <hi>better Fate.</hi>
+                     </l>
+                     <l>There stands <hi>Saint Peter's Shrine:</hi> Next, that, wherein</l>
+                     <l>What denies <hi>Princes Gods,</hi> is seen.</l>
+                     <l>And there's the <hi>House</hi> where <hi>wisest Heads decreed,</hi>
+                     </l>
+                     <l>And th' <hi>HALL</hi> where nimblest <hi>Tongues</hi> are fee'd.</l>
+                     <l>And there's <hi>WHITEHALL,</hi> a Noble <hi>Pile,</hi> although</l>
+                     <l>Its <hi>Royal Owner</hi> much below.</l>
+                     <l>I joy you <hi>both,</hi> (may <hi>both Joyes</hi> lasting be)</l>
+                     <l>Of <hi>Thee,</hi> thy <hi>Master,</hi> of thy <hi>Master, Thee.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Her <hi>Face</hi> once <hi>turn'd,</hi> she now beholds an <hi>Heap,</hi>
+                     </l>
+                     <l>Where stood a <hi>Street,</hi> misnamed <hi>CHEAP.</hi>
+                     </l>
+                     <l>Here once a <hi>glorious Aqueduct</hi> did shine,</l>
+                     <l>Where <hi>Triumphs Water</hi> turn'd to <hi>Wine.</hi>
+                     </l>
+                     <l>May <hi>Fire refine,</hi> and <hi>teach</hi> thee too, She cryes,</l>
+                     <l>As <hi>statelier,</hi> so more <hi>honest</hi> rise.</l>
+                  </lg>
+                  <lg>
+                     <pb n="6" facs="tcp:57464:8"/>
+                     <l>On the <hi>next Gate,</hi> unhappy <hi>Limbs</hi> there stood,</l>
+                     <l>That expiated <hi>Charles</hi> His <hi>Blood.</hi>
+                     </l>
+                     <l>The <hi>Flames</hi> themselves were <hi>loath,</hi> that <hi>after-Times</hi>
+                     </l>
+                     <l>Should lose the <hi>Vengeance</hi> of such <hi>Crimes.</hi>
+                     </l>
+                     <l>This seen; <hi>Sad Reliques,</hi> teach the World, (She sings)</l>
+                     <l>
+                        <hi>Long-handed are the Ghosts of Kings.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>To <hi>SION-COLLEGE</hi> next She turns her <hi>Eyes;</hi>
+                     </l>
+                     <l>Which, <hi>part-burnt, part-escap'd,</hi> She spyes.</l>
+                     <l>
+                        <hi>Dear Books,</hi> (said She) your <hi>dangers</hi> were my <hi>cares:</hi>
+                     </l>
+                     <l>And now my <hi>Joy</hi> exceeds my <hi>fears.</hi>
+                     </l>
+                     <l>
+                        <hi>Glad you</hi> are <hi>safe;</hi> I <hi>gladder</hi> should become,</l>
+                     <l>Your <hi>House re-built,</hi> and <hi>you at home.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Here <hi>flam'd</hi> an <hi>Hive</hi> the <hi>Muses Bird</hi> had fraught</l>
+                     <l>With <hi>Honey</hi> from <hi>Hymettus</hi> brought.</l>
+                     <l>
+                        <hi>Poor Bird!</hi> (said She) this <hi>Fate</hi> attends thy <hi>Name,</hi>
+                     </l>
+                     <l>For <hi>BEES</hi> oft <hi>plund'red</hi> are with <hi>Flame.</hi>
+                     </l>
+                     <l>But, <hi>Vulcan,</hi> yet, me-thinks, you <hi>Custom broke,</hi>
+                     </l>
+                     <l>For th' <hi>Honey sav'd,</hi> the <hi>Bees</hi> we <hi>smoke.</hi>
+                     </l>
+                     <l>Yea, rather, <hi>thank</hi> me, <hi>Madam,</hi> (answer'd <hi>Hee)</hi>
+                     </l>
+                     <l>That <hi>took</hi> your <hi>Hive,</hi> and <hi>drove</hi> your <hi>Bee.</hi>
+                     </l>
+                     <l>Your <hi>Bee preserv'd,</hi> will spread his <hi>buzzing wing,</hi>
+                     </l>
+                     <l>And to <hi>New Hives</hi> all <hi>Hybla</hi> bring.</l>
+                  </lg>
+                  <lg>
+                     <l>Within this <hi>Hive,</hi> of all the <hi>Wealth</hi> She <hi>lost,</hi>
+                     </l>
+                     <l>The <hi>Sacred Criticks</hi> stung her most.</l>
+                  </lg>
+                  <lg>
+                     <pb n="7" facs="tcp:57464:9"/>
+                     <l>
+                        <hi>Dear Births,</hi> (said She) of my <hi>once-teeming Throwes,</hi>
+                     </l>
+                     <l>Now <hi>Parents</hi> of my lasting <hi>Woes!</hi>
+                     </l>
+                     <l>
+                        <hi>Ʋnhappy Flame,</hi> in which <hi>devoured</hi> lye</l>
+                     <l>Th' <hi>Ashes</hi> of all <hi>Antiquity!</hi>
+                     </l>
+                     <l>No <hi>other Losse</hi> disdaineth <hi>Times repair:</hi>
+                     </l>
+                     <l>But <hi>This,</hi> is <hi>Times</hi> and <hi>my despair.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Next <hi>GƲILD-HALL,</hi> once, on <hi>Marble Pillars</hi> stood,</l>
+                     <l>Pillars, too <hi>proud</hi> of such a <hi>Load.</hi>
+                     </l>
+                     <l>
+                        <hi>Two</hi> armed <hi>Giants</hi> were its constant <hi>Guard,</hi>
+                     </l>
+                     <l>Whiles thither <hi>peaceful Gowns</hi> repair'd.</l>
+                     <l>Here, a <hi>grave Senate</hi> Causes did <hi>debate,</hi>
+                     </l>
+                     <l>Which the <hi>Lord Mayor</hi> adjudg'd in <hi>State.</hi>
+                     </l>
+                     <l>But <hi>lawless Flames adjourn'd</hi> the <hi>Court</hi> from thence,</l>
+                     <l>'Gainst which its <hi>Guards</hi> were no <hi>defence.</hi>
+                     </l>
+                     <l>But, <hi>Rise,</hi> (said She) more stately from thine <hi>Ʋrn,</hi>
+                     </l>
+                     <l>And may the <hi>banifht Court</hi> return.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>next advance</hi> unto her mind did bring</l>
+                     <l>The <hi>Charms</hi> of an <hi>harmonious Ring.</hi>
+                     </l>
+                     <l>The <hi>bended BOW shot</hi> thence <hi>reflected sounds,</hi>
+                     </l>
+                     <l>Made up of <hi>Musicks</hi> best <hi>Compounds.</hi>
+                     </l>
+                     <l>Its <hi>Courfeu-Bell</hi> once <hi>flames</hi> in <hi>order kept;</hi>
+                     </l>
+                     <l>And <hi>rak'd</hi> up <hi>Fire</hi> till morning <hi>slept.</hi>
+                     </l>
+                     <l>The <hi>Bow disarm'd,</hi> in vain now <hi>scar'd the Flame,</hi>
+                     </l>
+                     <l>And the <hi>shrill Metal dumb</hi> became.</l>
+                     <l>Yet <hi>Vulcan, triumph</hi> not, (said She) for <hi>thou</hi>
+                     </l>
+                     <l>Shalt <hi>rearm</hi> the <hi>disarmed Bow.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="8" facs="tcp:57464:10"/>
+                     <l>Her <hi>next Advance</hi> the <hi>ROYAL CHANGE</hi> presents;</l>
+                     <l>Where <hi>GRESHAM</hi> thus She <hi>complements.</hi>
+                     </l>
+                     <l>Haile, <hi>Flames Surviver;</hi> though thy <hi>Noble Pile</hi>
+                     </l>
+                     <l>Be <hi>burnt,</hi> (said She, and <hi>wept</hi> the while)</l>
+                     <l>Thy <hi>Grashopper,</hi> (turn'd <hi>Cricket</hi> now) shall <hi>sing</hi>
+                     </l>
+                     <l>A <hi>welcome</hi> to its <hi>second spring.</hi>
+                     </l>
+                     <l>Mean while, this to thy <hi>Memory</hi> is <hi>due,</hi>
+                     </l>
+                     <l>For <hi>one Change</hi> meant, thou <hi>built'st</hi> us <hi>two.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>ROYAL STATƲES</hi> miss'd; her Memory,</l>
+                     <l>Their <hi>Chronicle</hi> did thus supply.</l>
+                     <l>First, the <hi>CONFESSOR</hi> left a <hi>doubtful Crown,</hi>
+                     </l>
+                     <l>Which <hi>HAROLD snatch'd,</hi> and soon <hi>laid down,</hi>
+                     </l>
+                     <l>The <hi>NORMANS</hi> prize: whom dead, his <hi>Caen</hi> deny'd.</l>
+                     <l>For th' <hi>Hart,</hi> the <hi>Hunter, RƲFƲS,</hi> dy'd.</l>
+                     <l>To <hi>Beauclerk HENRY Lampreys</hi> fatal were.</l>
+                     <l>Th' <hi>Emp'ress,</hi> was <hi>STEPHENS Love,</hi> and <hi>Fear.</hi>
+                     </l>
+                     <l>Fair <hi>Rosamund</hi> did <hi>Second HENRY</hi> charm.</l>
+                     <l>And <hi>LION-HEART,</hi> the <hi>Lamb</hi> did <hi>Arm.</hi>
+                     </l>
+                     <l>To <hi>JOHN,</hi> the <hi>Monk</hi> a <hi>deadly Wassaile</hi> clears.</l>
+                     <l>
+                        <hi>Third HENRY</hi>'s <hi>Barons</hi> prov'd his <hi>Peers:</hi>
+                     </l>
+                     <l>
+                        <hi>First EDWARD,</hi> first the <hi>Welsh</hi> and <hi>Scot</hi> did quell.</l>
+                     <l>
+                        <hi>Spitted</hi> to death <hi>Next EDWARD</hi> fell.</l>
+                     <l>
+                        <hi>Third EDWARD,</hi> first the Noble <hi>Garter</hi> ty'd.</l>
+                     <l>
+                        <hi>Ʋn-crown'd,</hi> the <hi>Second RICHARD</hi> dy'd.</l>
+                     <l>
+                        <hi>Fourth HENRY</hi>'s <hi>Arms</hi> piec'd up his <hi>Titles Crack.</hi>
+                     </l>
+                     <l>The <hi>FIFTH</hi> pay'd <hi>France</hi> her <hi>Conquest back.</hi>
+                     </l>
+                     <pb n="9" facs="tcp:57464:11"/>
+                     <l>
+                        <hi>Sixth HENRY once</hi> lost <hi>France,</hi> and <hi>England twice.</hi>
+                     </l>
+                     <l>
+                        <hi>Both Losses</hi> were <hi>Fourth EDWARD's</hi> rise.</l>
+                     <l>
+                        <hi>Fifth EDWARD</hi> was a <hi>King;</hi> but for his <hi>Crown</hi>
+                     </l>
+                     <l>His <hi>Ʋncle DICK</hi> pay'd him in <hi>Down.</hi>
+                     </l>
+                     <l>The <hi>Seventh HENRY weds</hi> the <hi>Rival Rose.</hi>
+                     </l>
+                     <l>The <hi>EIGHTH, Romes Rival Power</hi> o'rethrows.</l>
+                     <l>
+                        <hi>Sixth EDWARD</hi> early <hi>ripe,</hi> did <hi>early rot.</hi>
+                     </l>
+                     <l>A <hi>bloody Reign</hi> did <hi>MARY</hi> blot.</l>
+                     <l>
+                        <hi>Peace, Plenty, Piety,</hi> the <hi>VIRGIN</hi> fames.</l>
+                     <l>
+                        <hi>Religion, Peace,</hi> and <hi>LEARNING, JAMES.</hi>
+                     </l>
+                     <l>A <hi>Martyrs</hi> Name <hi>First CHARLES</hi> alone doth bear.</l>
+                     <l>May <hi>[Merciful]</hi> the <hi>SECOND</hi> wear.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>dreadful Wrack</hi> now all together <hi>slings;</hi>
+                     </l>
+                     <l>
+                        <hi>Crowns, Scepters,</hi> and the <hi>Trunks</hi> of <hi>Kings.</hi>
+                     </l>
+                     <l>And, like your <hi>Statues, Kings,</hi> said She, you must</l>
+                     <l>Once <hi>mingled</hi> be with <hi>common Dust.</hi>
+                     </l>
+                     <l>But, Heavens, <hi>CHARLES</hi> his <hi>Fate</hi> delay! may <hi>slow Arrive</hi> his <hi>Age,</hi> and <hi>slower go.</hi>
+                     </l>
+                     <l>May he his <hi>Fathers</hi> in <hi>new Marble</hi> case:</l>
+                     <l>And <hi>late</hi> with's <hi>Fathers</hi> take his <hi>place.</hi>
+                     </l>
+                     <l>And <hi>you,</hi> who <hi>dream't</hi> o'th' <hi>Fall</hi> of <hi>Kings,</hi> at last</l>
+                     <l>Grow <hi>wise,</hi> now <hi>Sixty-Six</hi> is <hi>past.</hi>
+                     </l>
+                     <l>
+                        <hi>Come off</hi> (at least) like <hi>Oracles;</hi> and say,</l>
+                     <l>Your <hi>Credit's</hi> sav'd; <hi>These Kings</hi> are <hi>they.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Muses</hi> love <hi>streams.</hi> Whence prompted by <hi>Loves Fires,</hi> How <hi>fares</hi> the <hi>Thames!</hi> mine, next enquires.</head>
+                  <pb n="10" facs="tcp:57464:12"/>
+                  <lg>
+                     <l>On <hi>Arched Stone</hi> a <hi>Noble Frame</hi> here stood</l>
+                     <l>To <hi>wed</hi> Two <hi>Towns,</hi> and <hi>check</hi> the <hi>Flood.</hi>
+                     </l>
+                     <l>Its <hi>lofty Tops</hi> with <hi>Princely Buildings</hi> crown'd,</l>
+                     <l>
+                        <hi>'Midst Waves</hi> stood as on <hi>solid Ground.</hi>
+                     </l>
+                     <l>But oft the <hi>roaring Tydes</hi> assay'd, in vain,</l>
+                     <l>To <hi>break</hi> the <hi>Adamantine Chain.</hi>
+                     </l>
+                     <l>This <hi>Vulcan</hi> heard, and, <hi>Grieved Floods,</hi> (said He)</l>
+                     <l>Your <hi>Liberty</hi> receive from <hi>Me.</hi>
+                     </l>
+                     <l>Which <hi>Word</hi> in <hi>part</hi> made <hi>good;</hi> it since appears,</l>
+                     <l>He took <hi>new Counsels</hi> from his <hi>Fears.</hi>
+                     </l>
+                     <l>For <hi>doubted</hi> 'twas, th' <hi>enlarged Stream</hi> might <hi>swell,</hi>
+                     </l>
+                     <l>And for its <hi>Soveraigns</hi> sake, <hi>rebel.</hi>
+                     </l>
+                     <l>This learn'd: <hi>Fond Waves,</hi> wear still your <hi>Noble Chain,</hi>
+                     </l>
+                     <l>Your <hi>Pride</hi> (said She) and not your <hi>Pain.</hi>
+                     </l>
+                     <l>And may thy <hi>Furyes</hi> now by <hi>Fear</hi> repell'd,</l>
+                     <l>
+                        <hi>(Vulcan)</hi> henceforth by <hi>force</hi> be <hi>quelld.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Near by, the <hi>River</hi> hal'd by <hi>Engines</hi> force</l>
+                     <l>Beyond the <hi>Level</hi> of its <hi>source,</hi>
+                     </l>
+                     <l>And branch'd by <hi>secret Labyrinths</hi> abroad,</l>
+                     <l>In <hi>private Kitchins</hi> was bestow'd.</l>
+                     <l>
+                        <hi>Pernicious Engine</hi> for my <hi>ruine</hi> fram'd,</l>
+                     <l>
+                        <hi>Burn</hi> thou, (said <hi>Vulcan)</hi> and it <hi>flam'd.</hi>
+                     </l>
+                     <l>
+                        <hi>Dear Engine,</hi> (said the <hi>Muse)</hi> be thy <hi>repair,</hi>
+                     </l>
+                     <l>Thy <hi>skilful Artists</hi> second <hi>Care.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>next place</hi> view'd, was, where the <hi>Flame</hi> began,</l>
+                     <l>From <hi>empty'd Tripes</hi> call'd <hi>Pudding-Lane:</hi>
+                     </l>
+                     <pb n="11" facs="tcp:57464:13"/>
+                     <l>And ne're (said She) to <hi>greater Honour</hi> rise,</l>
+                     <l>Thou <hi>Source</hi> of <hi>Londons Tragedies.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Royal TOWER</hi> next escap'd she spi'd,</l>
+                     <l>By <hi>Art</hi> and <hi>Site</hi> joynt-fortifi'd.</l>
+                     <l>The <hi>first</hi> of <hi>Caesars,</hi> (if you credit <hi>Storyes)</hi>
+                     </l>
+                     <l>Added this <hi>Pilo</hi> to's <hi>Brittish Gloryes.</hi>
+                     </l>
+                     <l>The <hi>dreadful Terror</hi> of its <hi>Thund'ring Flames,</hi>
+                     </l>
+                     <l>Gives <hi>Law</hi> to the surrounding <hi>Thames.</hi>
+                     </l>
+                     <l>Here, <hi>Mars</hi> his <hi>Storehouse</hi> yeilds all sorts of <hi>Arms,</hi>
+                     </l>
+                     <l>Both to <hi>repel</hi> and <hi>threaten</hi> Harms.</l>
+                     <l>Here too, <hi>Kings Names</hi> and <hi>Faces</hi> authorize.</l>
+                     <l>
+                        <hi>Arms</hi> us'd for <hi>greater Victories.</hi>
+                     </l>
+                     <l>A <hi>Royal Guard</hi> this <hi>Pile</hi> in safety kept:</l>
+                     <l>He, <hi>it,</hi> and <hi>them,</hi> who <hi>never slept.</hi>
+                     </l>
+                     <l>The <hi>siege</hi> of <hi>Flames</hi> this <hi>Fort</hi> did justly <hi>scare,</hi>
+                     </l>
+                     <l>Which one <hi>small</hi> spark had <hi>toss'd</hi> i'th' <hi>aire.</hi>
+                     </l>
+                     <l>And, but that <hi>Heaven</hi> interpos'd to <hi>save,</hi>
+                     </l>
+                     <l>That <hi>spot</hi> had been <hi>Three Kingdoms Grave.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Whiles from <hi>these Sights</hi> the <hi>Muse</hi> returns, and here</l>
+                     <l>Scatters a <hi>pray'r,</hi> and there a <hi>Tear.</hi>
+                     </l>
+                     <l>In <hi>Goldsmiths Street,</hi> known by th' <hi>Italian Name,</hi>
+                     </l>
+                     <l>She saw the <hi>dreadful Prints</hi> of <hi>Flame.</hi>
+                     </l>
+                     <l>And that which <hi>GRACES</hi> some, some <hi>GRASSES,</hi> call,</l>
+                     <l>(No matter which) now's <hi>none</hi> at all.</l>
+                     <l>Its <hi>Grace,</hi> this Ruine shews, but <hi>mortal</hi> was;</l>
+                     <l>And <hi>wither'd,</hi> like its <hi>Embleme, Grass.</hi>
+                     </l>
+                     <pb n="12" facs="tcp:57464:14"/>
+                     <l>At th' <hi>other end,</hi> a <hi>Nook</hi> there was <hi>repriev'd,</hi>
+                     </l>
+                     <l>In which the <hi>LANGHAMS Seat</hi> surviv'd.</l>
+                     <l>Once <hi>CROSSBY's</hi> twas; and thence the <hi>Name,</hi> although</l>
+                     <l>That <hi>Name</hi> ne're <hi>match'd</hi> it so, as <hi>Now.</hi>
+                     </l>
+                     <l>A <hi>Noble Seat</hi> of a more <hi>Noble Lord,</hi>
+                     </l>
+                     <l>Where <hi>Mind</hi> doth with his <hi>Wealth</hi> accord.</l>
+                     <l>This <hi>great,</hi> that <hi>generous,</hi> Friends by <hi>bounty</hi> made;</l>
+                     <l>Those <hi>pay'd</hi> him <hi>Pray'rs, Pray'rs ruine stay'd.</hi>
+                     </l>
+                     <l>Scarce could the <hi>Muse</hi> forbear <hi>ill-timed Joyes,</hi>
+                     </l>
+                     <l>But could not this <hi>instructing Voyce;</hi>
+                     </l>
+                     <l>
+                        <hi>Good Works quench Fires, whiles they ascend, (like rain)</hi>
+                     </l>
+                     <l>
+                        <hi>In our needs to descend again.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Nigh, <hi>GRESHAM-COLLEGE stood;</hi> and (which is more)</l>
+                     <l>Yet <hi>stands,</hi> though Ruine <hi>knock'd</hi> at <hi>door.</hi>
+                     </l>
+                     <l>
+                        <hi>Apollo</hi> and the <hi>Nine,</hi> oft here <hi>resort;</hi>
+                     </l>
+                     <l>And <hi>Helicon's</hi> the <hi>thinner Court.</hi>
+                     </l>
+                     <l>Here <hi>learned Lectures</hi> on all <hi>Themes</hi> are read;</l>
+                     <l>And <hi>Arts</hi> endow'd, <hi>Professors</hi> wed.</l>
+                     <l>
+                        <hi>Philosophers</hi> here govern <hi>Earth</hi> and <hi>Skies;</hi>
+                     </l>
+                     <l>And <hi>Kings</hi> Themselves <hi>Philosophize.</hi>
+                     </l>
+                     <l>The <hi>Fellowship</hi> a <hi>Royal Title</hi> wears:</l>
+                     <l>But <hi>things</hi> beyond their <hi>Title,</hi> dares.</l>
+                     <l>
+                        <hi>Old Misters</hi> here are <hi>school'd</hi> again; and must</l>
+                     <l>Now learn by <hi>Trial,</hi> not by <hi>Trust.</hi>
+                     </l>
+                     <l>Here, <hi>Natures Cabinet</hi> is expos'd to <hi>sight;</hi>
+                     </l>
+                     <l>And all her <hi>Shop</hi> held up to <hi>light.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="13" facs="tcp:57464:15"/>
+                     <l>Here, in a <hi>Tube,</hi> the <hi>armed Flea</hi> doth <hi>bear</hi>
+                     </l>
+                     <l>
+                        <hi>Deaths</hi> on the <hi>point</hi> of's <hi>dreadful Spear:</hi>
+                     </l>
+                     <l>And he that <hi>feels</hi> it, (whiles he <hi>sees</hi> it such)</l>
+                     <l>Believes his <hi>Eye</hi> before his <hi>Touch.</hi>
+                     </l>
+                     <l>Here, he that views the <hi>Native</hi> of his <hi>Head,</hi>
+                     </l>
+                     <l>
+                        <hi>Disclaims</hi> the <hi>Monster</hi> that he <hi>bred:</hi>
+                     </l>
+                     <l>And from th' <hi>Hair-Clubb</hi> his <hi>Armed Paw</hi> doth wield,</l>
+                     <l>The <hi>place</hi> in which it <hi>grew,</hi> doth <hi>shield.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But, these are <hi>small things.</hi> It's <hi>much,</hi> that the <hi>Skye</hi>
+                     </l>
+                     <l>Where <hi>Thought</hi> ne're pierc'd, admits the <hi>Eye.</hi>
+                     </l>
+                     <l>
+                        <hi>White Rocks,</hi> the <hi>Moon,</hi> a second <hi>Albion</hi> make;</l>
+                     <l>And that's a <hi>Sea,</hi> which was a <hi>Brake.</hi>
+                     </l>
+                     <l>
+                        <hi>Sol's face</hi> now, Ladyes, <hi>Beauty-patches</hi> wears,</l>
+                     <l>And <hi>Saturn's</hi> like a <hi>Pot</hi> with <hi>Ears.</hi>
+                     </l>
+                     <l>Yea, <hi>Jove,</hi> and's <hi>Guard,</hi> and <hi>Heavens King-at-Arms,</hi>
+                     </l>
+                     <l>
+                        <hi>Warr's God,</hi> and <hi>Venus</hi> with her <hi>Charms;</hi>
+                     </l>
+                     <l>Each, in a <hi>narrow Glass strange sights</hi> displays:</l>
+                     <l>And <hi>Starres</hi> are known, as well as <hi>Flea's.</hi>
+                     </l>
+                     <l>Yea, <hi>Thou,</hi> whose <hi>greater Mind</hi> th' <hi>old World</hi> outgrew,</l>
+                     <l>Might'st here each Night descry a <hi>New:</hi>
+                     </l>
+                     <l>Though that would <hi>grieve</hi> thee too, except the <hi>way</hi>
+                     </l>
+                     <l>To th' <hi>New Worlds</hi> were as <hi>known</hi> as <hi>They.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>'Tis <hi>much,</hi> that <hi>Ayre</hi> it self in <hi>Scales</hi> is <hi>Weigh'd;</hi>
+                     </l>
+                     <l>And <hi>Scales</hi> by <hi>smallest Atomes</hi> sway'd.</l>
+                     <l>That <hi>lawless Seas</hi> new <hi>Laws of Motion</hi> know,</l>
+                     <l>And by <hi>learn'd Measures</hi> ebb and flow.</l>
+                     <pb n="14" facs="tcp:57464:16"/>
+                     <l>That the <hi>Ocean's</hi> rendred <hi>fathomable,</hi> and</l>
+                     <l>
+                        <hi>Abysse,</hi> for a meer <hi>Name</hi> doth stand.</l>
+                     <l>That from the <hi>Briny Pond</hi> new <hi>Buckets</hi> fill'd,</l>
+                     <l>Excluding <hi>salt, fresh water</hi> yield.</l>
+                     <l>That <hi>Summer-snow</hi> (the year inverted) cooles</l>
+                     <l>Th' offensive heat of <hi>flaming Bowles.</hi>
+                     </l>
+                     <l>That <hi>Water's harden'd</hi> to an <hi>Earthy Mass,</hi>
+                     </l>
+                     <l>And <hi>Earth dissolves</hi> to what <hi>It was.</hi>
+                     </l>
+                     <l>That <hi>Time</hi> more sure doth by <hi>vibration</hi> run,</l>
+                     <l>And <hi>Pendulum-Watches</hi> set the <hi>Sun.</hi>
+                     </l>
+                     <l>Yea, shortly, <hi>Timber</hi> shall the <hi>Fire repell,</hi>
+                     </l>
+                     <l>When <hi>crusied</hi> with a <hi>Marble</hi> shell.</l>
+                     <l>What <hi>pity</hi> 'twas, th' <hi>Invention</hi> came too <hi>late</hi>
+                     </l>
+                     <l>These <hi>Ruines</hi> to <hi>anticipate!</hi>
+                     </l>
+                     <l>For then had <hi>LONDON</hi> been <hi>Flame-proof;</hi> nor had</l>
+                     <l>My <hi>Muses subject</hi> been so <hi>sad.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>He</hi> too, that <hi>sung chang'd shapes,</hi> might hence enrich</l>
+                     <l>His <hi>Muse,</hi> without a <hi>God</hi> or <hi>Witch.</hi>
+                     </l>
+                     <l>Here, <hi>empty'd Veins</hi> with <hi>blood adopted</hi> swell,</l>
+                     <l>And <hi>Souls</hi> in <hi>Foreign Bodies</hi> dwell.</l>
+                     <l>Whence <hi>young juyce</hi> shortly <hi>wither'd Limbs</hi> shall fill,</l>
+                     <l>And <hi>Time</hi> remount the <hi>passed Hill.</hi>
+                     </l>
+                     <l>Yea, <hi>hastned Age</hi> shall <hi>Childhoods Neighbour</hi> grow,</l>
+                     <l>And on the <hi>downy</hi> Chin shall <hi>snow.</hi>
+                     </l>
+                     <l>
+                        <hi>Pylades</hi> shall into his <hi>Friend</hi> be <hi>tunn'd,</hi>
+                     </l>
+                     <l>And <hi>he himself</hi> to him <hi>refun'd:</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="15" facs="tcp:57464:17"/>
+                     <l>So that, when <hi>one</hi> must <hi>dye,</hi> the <hi>Fates</hi> shall be</l>
+                     <l>
+                        <hi>Puzled</hi> t' <hi>unriddle</hi> which is <hi>He.</hi>
+                     </l>
+                     <l>Yea, <hi>barking Lambs</hi> their <hi>flatt'ring Tayles</hi> shall <hi>rear,</hi>
+                     </l>
+                     <l>And <hi>bleating Dogs</hi> their <hi>Pastures shear.</hi>
+                     </l>
+                     <l>The <hi>neighing-Asse</hi> shall at the <hi>Drumme</hi> rejoyce,</l>
+                     <l>And <hi>hoarse</hi> shall be the <hi>Horses Voyce.</hi>
+                     </l>
+                     <l>
+                        <hi>Tapp</hi> th' <hi>Eagle</hi> into <hi>Man,</hi> and 'tis presum'd</l>
+                     <l>
+                        <hi>Smooth Ganymed</hi> will soon be <hi>plum'd:</hi>
+                     </l>
+                     <l>And <hi>Icarus</hi> with <hi>native Wings</hi> shall <hi>flye,</hi>
+                     </l>
+                     <l>Where <hi>borrow'd Plumes</hi> in vain did <hi>try.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>In <hi>summe.</hi> A <hi>thousand Wonders</hi> here do <hi>dwell,</hi>
+                     </l>
+                     <l>Too <hi>great</hi> for my <hi>poor verse</hi> to tell.</l>
+                     <l>The <hi>College stands,</hi> but in its <hi>visage</hi> bears</l>
+                     <l>The <hi>marks</hi> that <hi>justifie</hi> its <hi>fears.</hi>
+                     </l>
+                     <l>This seen; I thank thee, <hi>Vulcan,</hi> (said the <hi>Muse)</hi>
+                     </l>
+                     <l>This <hi>Pleads</hi> thy <hi>former Pranks</hi> excuse.</l>
+                  </lg>
+                  <lg>
+                     <l>Hence, all the <hi>envy'd Fragments</hi> that <hi>remain,</hi>
+                     </l>
+                     <l>Her <hi>searching Eye</hi> doth entertain.</l>
+                     <l>Some <hi>lick'd</hi> by <hi>scorching Flames, discolour'd</hi> were;</l>
+                     <l>Where <hi>Ruine</hi> only wrote, <hi>[How near!]</hi>
+                     </l>
+                     <l>Others <hi>entire,</hi> (though once alike <hi>resign'd)</hi>
+                     </l>
+                     <l>Their <hi>Lords, restor'd</hi> with <hi>profit,</hi> find.</l>
+                     <l>But make not others <hi>Losse,</hi> your <hi>Gains,</hi> (She says)</l>
+                     <l>
+                        <hi>Oppression, Mercy</hi> ill <hi>repays.</hi>
+                     </l>
+                     <l>The <hi>Flames</hi> from <hi>you</hi> received not their <hi>Pay,</hi>
+                     </l>
+                     <l>But <hi>Heavens Commission</hi> did <hi>obey.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="16" facs="tcp:57464:18"/>
+                     <l>And had a <hi>like Desert, like rigour</hi> found,</l>
+                     <l>Your <hi>Topps</hi> alike had kiss'd the <hi>Ground.</hi>
+                     </l>
+                     <l>And you too, <hi>ragged Walls,</hi> which men <hi>walk under</hi>
+                     </l>
+                     <l>Possess'd at once with <hi>fear</hi> and <hi>wonder;</hi>
+                     </l>
+                     <l>Rise to <hi>GOD</hi>'s at once with <hi>fear</hi> and <hi>wonder;</hi>
+                     </l>
+                     <l>
+                        <hi>More glorious</hi> by <hi>your Overthrow.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb facs="tcp:57464:19"/>
+            <pb n="1" facs="tcp:57464:19"/>
+            <head>ACTIO IN LONDINI INCENDIARIOS. <hi>Ad virum Nobiliss. Doctiss. Dominum</hi> JUSTINIANUM ISHAM, <hi>Baronettum.</hi>
+            </head>
+            <lg>
+               <l>QUI tua <hi>LONDINƲM,</hi> deflevit <hi>funera,</hi> inique</l>
+               <l>Carpitur, in <hi>Satyr am</hi> quod non desiverit, <hi>aestus:</hi>
+               </l>
+               <l>
+                  <hi>Displicet</hi> &amp; nimio tanquam <hi>moderamine</hi> peccet,</l>
+               <l>Quod <hi>lugubre</hi> truci non saevit verbere <hi>Carmen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>5</head>
+               <l>
+                  <hi>Parcite</hi> sed <hi>moesto,</hi> Censores, parcite <hi>Vati,</hi>
+               </l>
+               <l>
+                  <hi>Tempora</hi> si justo dedit <hi>illibata</hi> dolori;</l>
+               <l>At{que} <hi>immaturae</hi> sprevit <hi>solatia</hi> poenae.</l>
+               <l>Sed ne{que} <hi>nostra</hi> calent <hi>plebeio</hi> corda <hi>furore;</hi>
+               </l>
+               <l>Nec frustra <hi>caecos</hi> bacchando <hi>perdimus Ictus;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>10</head>
+               <l>Dum petimus <hi>vacuos</hi> ignoto ex Hoste <hi>Triumphos.</hi>
+               </l>
+               <l>Non Manes, <hi>Huberte,</hi> tuos (cui justa fatenti,</l>
+               <l>Sive <hi>reus</hi> fueris, sive <hi>immemorabile Nomen</hi>
+               </l>
+               <l>Rapturus tenebris assumpto Crimine, <hi>mendax,</hi>
+               </l>
+               <l>
+                  <hi>Furca</hi> dedit <hi>lethum)</hi> nostra dignabimur ira.</l>
+            </lg>
+            <lg>
+               <head>15</head>
+               <l>
+                  <hi>Tu{que}</hi> referre <hi>vicem</hi> nocturno <hi>Brandaris</hi> Igne</l>
+               <l>Credita, &amp; incensis <hi>furiata</hi> navalibus <hi>Haga:</hi>
+               </l>
+               <pb n="2" facs="tcp:57464:20"/>
+               <l>Et <hi>Tu,</hi> quae nostros vetuisti animosa triumphos</l>
+               <l>
+                  <hi>Gallia;</hi> debetis mihi <hi>(vulgo Judice)</hi> paenas.</l>
+               <l>Quin potius, (si <hi>justa</hi> fremat, si <hi>vera</hi> loquatur</l>
+            </lg>
+            <lg>
+               <head>20</head>
+               <l>Suspicio) debete <hi>Deo,</hi> debete <hi>futuris</hi>
+               </l>
+               <l>
+                  <hi>Temporibus, Menti</hi> tandem debete <hi>reversae.</hi>
+               </l>
+               <l>
+                  <hi>Vapulat ipse sibi,</hi> qui <hi>nullo vindice peccat.</hi>
+               </l>
+               <l>
+                  <hi>Vos</hi> certe, (O nimium <hi>ventura</hi> in <hi>clade</hi> sagaces,</l>
+               <l>At{que} importune <hi>grassante</hi> in <hi>strage</hi> minaces,</l>
+            </lg>
+            <lg>
+               <head>25</head>
+               <l>
+                  <hi>Papicolae)</hi> non pauca gravant deprensa <hi>reatus</hi>
+               </l>
+               <l>
+                  <hi>Indicia,</hi> haud dubie <hi>saevam</hi> prodentia <hi>Romam.</hi>
+               </l>
+               <l>Scilicet, <hi>Haereticos</hi> ferro flamma{que} petendos,</l>
+               <l>(Cuncta vetent <hi>Regni</hi> licet, <hi>hospitiique, tori{que}</hi>
+               </l>
+               <l>
+                  <hi>Jura,</hi> vel ipsa quibus fiunt <hi>commercia Mundo,)</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>30</head>
+               <l>Stat <hi>Capitolini</hi> sententia fixa <hi>Tonantis.</hi>
+               </l>
+               <l>
+                  <hi>Talia</hi> dant <hi>Coelum:</hi> scelerum quaecun{que} <hi>Repertor</hi>
+               </l>
+               <l>Horreret, faciunt <hi>Latiales</hi> crimina <hi>Divos.</hi>
+               </l>
+               <l>Sunt quoque, queis haerent <hi>Mariani</hi> in mentibus <hi>Ignes,</hi>
+               </l>
+               <l>Nuper &amp; <hi>horrisono</hi> distentae <hi>pulvere</hi> Cellae,</l>
+            </lg>
+            <lg>
+               <head>35</head>
+               <l>Misturae <hi>Patres</hi> una <hi>Reges{que}</hi> ruina.</l>
+               <l>Sensimus, ah! quoties, <hi>flagrantem Matris amorem</hi>
+               </l>
+               <l>
+                  <hi>ROMANAE?</hi> At <hi>grates</hi> meritis persolvere <hi>dignas</hi>
+               </l>
+               <l>Non <hi>Operis nostri</hi> est. <hi>Solvet,</hi> qni <hi>justa repensat.</hi>
+               </l>
+               <l>
+                  <hi>Majus opus</hi> moveo. <hi>Brevibus,</hi> dubiis{que} relictis</l>
+            </lg>
+            <lg>
+               <head>40</head>
+               <l>
+                  <hi>Syrtibus,</hi> Aonides, <hi>Pelago</hi> date vela <hi>patenti.</hi>
+               </l>
+               <l>Et <hi>certum</hi> sulcate <hi>salum: Cynosura</hi> carinae</l>
+               <l>Fida dabit <hi>rectos</hi> optata ad littora <hi>cursus.</hi>
+               </l>
+               <l>
+                  <hi>Tu</hi> modo, cui fulgent <hi>aeterna</hi> tempota <hi>lauro,</hi>
+               </l>
+               <l>
+                  <hi>Arbiter</hi> insignis <hi>Romani Carminis,</hi> aequus</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:57464:20"/>
+               <head>45</head>
+               <l>Respicias <hi>veterum</hi> a longe <hi>vestigia Vatum</hi>
+               </l>
+               <l>Servantem, <hi>placidis{que}</hi> imple mea lintea <hi>ventis.</hi>
+               </l>
+               <l>
+                  <hi>Tu{que}</hi> simul, <hi>Pater Omnipotens,</hi> rutilantia torquens</l>
+               <l>
+                  <hi>Fulmina,</hi> &amp; in lacer is <hi>crepitantes</hi> nubibus <hi>ignos;</hi>
+               </l>
+               <l>
+                  <hi>Omnia,</hi> quo mandante, novos <hi>Elementa</hi> furores</l>
+            </lg>
+            <lg>
+               <head>50</head>
+               <l>Concipiunt, <hi>fractis{que}</hi> simul bacchantia <hi>claustris</hi>
+               </l>
+               <l>Qua data <hi>porta,</hi> ruunt, &amp; <hi>rupta repagula</hi> caleant;</l>
+               <l>
+                  <hi>Alme</hi> doce, quibus haec debentur <hi>Funera causis,</hi>
+               </l>
+               <l>
+                  <hi>Certaq</hi> sollicito reddas <hi>Oraculi</hi> Vati.</l>
+               <l>
+                  <hi>Quo mage</hi> nam tantae stragis non cernitur <hi>Author,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>55</head>
+               <l>
+                  <hi>Hac mage</hi> certa tuae <hi>cernuntur</hi> vulnera Dextrae:</l>
+               <l>
+                  <hi>Quo{que} magis</hi> rarus <hi>dignas Te</hi> concipis <hi>Iras,</hi>
+               </l>
+               <l>Dnm veniae facilis <hi>lentis fervoribus</hi> ardes,</l>
+               <l>
+                  <hi>Languida{que}</hi> invita contorques <hi>spicula</hi> Dextra;</l>
+               <l>
+                  <hi>Hoc magis,</hi> extortas <hi>absolvit crimine</hi> paenas,</l>
+            </lg>
+            <lg>
+               <head>60</head>
+               <l>
+                  <hi>Imputat</hi> at{que} suas <hi>sibimet</hi> Gens conscia clades.</l>
+               <l>
+                  <hi>Fallor?</hi> an audita sentit prece, <hi>corda</hi> moveri</l>
+               <l>
+                  <hi>Caelitus,</hi> illapso <hi>perfusus</hi> Numine <hi>Vates;</hi>
+               </l>
+               <l>Nostra{que} <hi>non nostro</hi> praecordia <hi>flamine</hi> turgent,</l>
+               <l>Eructant{que} <hi>graves</hi> gravido de pectore <hi>voces?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>65</head>
+               <l>
+                  <hi>Audiat</hi> ergo, suis quaqua <hi>Orbi</hi> avellitur undis,</l>
+               <l>Et <hi>tremat</hi> haud vanum secura <hi>Britannia</hi> Carmen.</l>
+               <l>Nam{que} suis <hi>Gens</hi> tota <hi>Deum</hi> stimulavit in Iras</l>
+               <l>Flagitiis; scelerum{que} <hi>strues</hi> immanibus ausis</l>
+               <l>
+                  <hi>Crevit,</hi> &amp; injecta <hi>geminavit</hi> Pelion Ossa,</l>
+            </lg>
+            <lg>
+               <head>70</head>
+               <l>
+                  <hi>Subjecit{que}</hi> audax <hi>stipulas,</hi> flammas{que} <hi>poposcit.</hi>
+               </l>
+               <l>Donec in immensum <hi>cumulo</hi> surgente, <hi>favillas</hi>
+               </l>
+               <l>Subdidit, &amp; <hi>flatu</hi> commotas pavit <hi>anhelo</hi>
+               </l>
+               <pb n="4" facs="tcp:57464:21"/>
+               <l>
+                  <hi>Astripotcns,</hi> corrcpta ingens dum <hi>silva</hi> jaceret</l>
+               <l>
+                  <hi>Tectorum,</hi> cellas{que} <hi>ignotis</hi> panderet <hi>Astris.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>75</head>
+               <l>
+                  <hi>Sola</hi> sed ut <hi>pereas,</hi> non <hi>digna</hi> es <hi>sola perire</hi>
+               </l>
+               <l>
+                  <hi>LONDINƲM:</hi> paribus <hi>Nemesis</hi> si debita causis</l>
+               <l>
+                  <hi>Arderet,</hi> paribus flagraret <hi>tota</hi> ruinis</l>
+               <l>
+                  <hi>Anglia,</hi> &amp; <hi>aequalis</hi> traheret contagia <hi>Fati.</hi>
+               </l>
+               <l>Nupera nam{que} simul saevas-furialis <hi>Enyo</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>80</head>
+               <l>
+                  <hi>Sparsit</hi> per tria Regna <hi>faces,</hi> tinctae{que} <hi>cruore</hi>
+               </l>
+               <l>
+                  <hi>Cognato</hi> rubuere manus: vicisse noccndo</l>
+               <l>
+                  <hi>Ambitionis</hi> erat; quaesita{que} <hi>gloria Bellis</hi>
+               </l>
+               <l>Quae <hi>nullis</hi> olim fuerant decoranda <hi>Triumphis.</hi>
+               </l>
+               <l>Tu quo{que} funestis accedis <hi>Pompa Trophaeis</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>85</head>
+               <l>
+                  <hi>CAROLE,</hi> quem fecit <hi>Belli fortuna</hi> nocentem,</l>
+               <l>Et <hi>vinci</hi> Tibi <hi>Crimen</hi> erat: <hi>Ludibria Juris</hi>
+               </l>
+               <l>
+                  <hi>Infracta virtute</hi> subis; <hi>saevae{que} securi</hi>
+               </l>
+               <l>Aspersit maculam <hi>Regalis</hi> purpura <hi>Venae.</hi>
+               </l>
+               <l>Heu! scelus <hi>exemplis majus:</hi> labesque, labor{que}</l>
+            </lg>
+            <lg>
+               <head>90</head>
+               <l>
+                  <hi>Historiae; Fidei</hi> Tortura; aeterna <hi>Cothurni</hi>
+               </l>
+               <l>Materies; toto <hi>Atridas</hi> pulsura <hi>Theatro,</hi>
+               </l>
+               <l>Quae{que} <hi>Thyesteis</hi> Solem extinxere <hi>Mycenis!</hi>
+               </l>
+               <l>Nec <hi>totum</hi> est in <hi>Patre</hi> nefas. Expellitur insons</l>
+               <l>
+                  <hi>Progenies;</hi> rapitur <hi>Sceptrum; Regalia Jura</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>95</head>
+               <l>Privatis, &amp; <hi>sacra</hi> simul <hi>Patrimonia</hi> cedunt:</l>
+               <l>Dum <hi>perit,</hi> in <hi>varios</hi> decies divisa <hi>Magistros</hi>
+               </l>
+               <l>
+                  <hi>Libertas,</hi> tanti fuerat quae <hi>causa furoris.</hi>
+               </l>
+               <l>Anxia sed, metuens{que} sui, nova regna <hi>Tyrannis</hi>
+               </l>
+               <l>
+                  <hi>Legibus</hi> in <hi>rigidi</hi> speciem formarat <hi>honesti</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:57464:21"/>
+               <head>100</head>
+               <l>
+                  <hi>Immodicis, iras{que}</hi> pia tardaverat Arte</l>
+               <l>
+                  <hi>Ʋltrices;</hi> aliquis{que} malo fuit usus in illo.</l>
+               <l>At simul <hi>assertos Fasces,</hi> &amp; <hi>Sceptra redempta</hi>
+               </l>
+               <l>
+                  <hi>Servitio,</hi> sensit <hi>Domino</hi> cessisse <hi>reverso;</hi>
+               </l>
+               <l>
+                  <hi>Excussa</hi> est Gens tota <hi>sibi: germana Furor's</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>105</head>
+               <l>
+                  <hi>Libertas</hi> rapitur, laxis{que} <hi>Licentia</hi> vinclis</l>
+               <l>Invadit populum pariter vix <hi>justa</hi> ferentem</l>
+               <l>
+                  <hi>Gaudia,</hi> &amp; immodici miscet <hi>confinia</hi> laeti.</l>
+               <l>
+                  <hi>Ridentes</hi> patimur <hi>Furias:</hi> ulciscitur <hi>Arma</hi>
+               </l>
+               <l>
+                  <hi>Luxuria,</hi> &amp; <hi>molli</hi> Bellum luit <hi>Anglia Pace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>110</head>
+               <l>Qualiter <hi>excusso</hi> cum saevit laesa <hi>Magistro</hi>
+               </l>
+               <l>Immanis <hi>Lybies</hi> turrito <hi>Bellua</hi> dorso;</l>
+               <l>
+                  <hi>Impositi</hi> nutant trepido cum milite <hi>muri,</hi>
+               </l>
+               <l>Totum frendet <hi>Ebur,</hi> versatur <hi>tortile Rostrum</hi>
+               </l>
+               <l>
+                  <hi>Haurit</hi> &amp; objectas <hi>Acies,</hi> discrimine nullo</l>
+            </lg>
+            <lg>
+               <head>115</head>
+               <l>Proturbans <hi>nigris</hi> mistos <hi>popularibus</hi> Hostes:</l>
+               <l>Taliter effractis <hi>Vesana Licentia</hi> loris</l>
+               <l>Qua <hi>vitio,</hi> qua <hi>vindicta,</hi> fremit, aestuat, ardet;</l>
+               <l>Successu{que} tumens, <hi>foedo</hi> omnia <hi>calce</hi> profanat</l>
+               <l>
+                  <hi>Jura;</hi> nec agnoscit <hi>spreti</hi> discrimina <hi>sancti.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>120</head>
+               <l>
+                  <hi>Aethera{que}</hi> incestat <hi>spumis,</hi> mundi{que} <hi>Parenti</hi>
+               </l>
+               <l>Tota oggrunnit <hi>Hara</hi> turpis Grex <hi>incola coeni.</hi>
+               </l>
+               <l>Terra <hi>Atheis</hi> foecunda sumus: dum{que} omnia <hi>sparsis</hi>
+               </l>
+               <l>
+                  <hi>Seminibus,</hi> sorti{que} damus, <hi>coelumque, solumque;</hi>
+               </l>
+               <l>
+                  <hi>Numen,</hi> nec <hi>Fortuna</hi> facit: nam{que} exulat Orbe,</l>
+            </lg>
+            <lg>
+               <head>125</head>
+               <l>Fit{que} <hi>Atomis minor</hi> ipse suis qui <hi>condidit Orbem.</hi>
+               </l>
+               <l>Qui <hi>timet,</hi> ille <hi>Deum fingit</hi> sibi. Tolle <hi>Timorem,</hi>
+               </l>
+               <l>Nulla <hi>Timenda</hi> manent: <hi>tetrica</hi> mox <hi>Lege</hi> solutus</l>
+               <pb n="6" facs="tcp:57464:22"/>
+               <l>
+                  <hi>Omne scelus</hi> tutus perages, <hi>perijuria{que}</hi> ipsa</l>
+               <l>Admittes, pulso <hi>contempti</hi> vindice <hi>sacri.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>130</head>
+               <l>
+                  <hi>Ingenii</hi> est <hi>violare Deum. Obbrutescimus</hi> illa</l>
+               <l>
+                  <hi>Concedunt nobis</hi> qua <hi>bruta animalia</hi> parte,</l>
+               <l>Ingrati; &amp; coelo <hi>coeli scintilla</hi> rebellat.</l>
+               <l>Non aliter <hi>lacera</hi> fertur puguasse <hi>Parente,</hi>
+               </l>
+               <l>Cum peteret Bello <hi>pubes Titania</hi> Divos.</l>
+            </lg>
+            <lg>
+               <head>135</head>
+               <l>
+                  <hi>Evulso</hi> hic armatur <hi>Atho;</hi> rotat ille <hi>lacerto</hi>
+               </l>
+               <l>
+                  <hi>Parnassum; Rhodopen</hi> laxata fundit <hi>habena</hi>
+               </l>
+               <l>Alter, &amp; in pluvias <hi>truncatum</hi> dissipat <hi>Hebrum;</hi>
+               </l>
+               <l>
+                  <hi>Aetna</hi> volat, manibus{que} simul fabricata <hi>Cyclopum</hi>
+               </l>
+               <l>Tela, <hi>Jovi</hi> nocitura <hi>suo;</hi> nativa{que} in <hi>Ignes</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>140</head>
+               <l>
+                  <hi>Naptha</hi> fluit, <hi>volucri{que}</hi> imitatur fulgura <hi>flamma.</hi>
+               </l>
+               <l>Adde, quod haec <hi>odiis</hi> aetas urgendo <hi>priorum</hi>
+               </l>
+               <l>
+                  <hi>Crimina,</hi> in <hi>Extremum</hi> rapitur violenter <hi>iniqum.</hi>
+               </l>
+               <l>
+                  <hi>Ficta</hi> parens. Scelerum <hi>Pietas,</hi> praetensa{que} <hi>Causis</hi>
+               </l>
+               <l>Numina <hi>disparibus,</hi> (quosvis <hi>suadente</hi> furores</l>
+            </lg>
+            <lg>
+               <head>145</head>
+               <l>
+                  <hi>Relligione, novis</hi> cumulat dum <hi>commoda sectis)</hi>
+               </l>
+               <l>
+                  <hi>Nupera Tartareis</hi> foedabant <hi>Tempora Monstris.</hi>
+               </l>
+               <l>Redditur hinc <hi>suspecta</hi> Orbi, <hi>fictae{que}</hi> reatum</l>
+               <l>
+                  <hi>Vera</hi> timet; dum <hi>Larva Boni</hi> quia displicet, ipsa</l>
+               <l>Horretur <hi>Facies;</hi> &amp; <hi>aperto</hi> flagrat <hi>iniquo,</hi>
+               </l>
+               <l>Ne subeat Mundus <hi>suspecti</hi> crimen <hi>Honesti.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>150</head>
+               <l>Unde verecundo <hi>Virtus</hi> perfusa <hi>pudore</hi>
+               </l>
+               <l>
+                  <hi>Exuviis</hi> tegitur <hi>vitii;</hi> &amp; contenta <hi>latere,</hi>
+               </l>
+               <l>Ambit <hi>securam</hi> tenebrarum in carcere <hi>vitam:</hi>
+               </l>
+               <l>Vel, si forte <hi>suo</hi> patefiat prodita <hi>zelo,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>155</head>
+               <l>Sentiat aut <hi>turpes</hi> aliunde objecta <hi>cachinnos;</hi>
+               </l>
+               <pb n="7" facs="tcp:57464:22"/>
+               <l>Induit <hi>immeritos,</hi> timide defensa, <hi>rubores,</hi>
+               </l>
+               <l>
+                  <hi>Suppositam{que}</hi> fovet vitiosa modestia <hi>culpam.</hi>
+               </l>
+               <l>
+                  <hi>Aestuat</hi> interea <hi>Furiis</hi> Gens Impia nudis:</l>
+               <l>Nec tegitur <hi>furtis, aliove</hi> invita patescit</l>
+            </lg>
+            <lg>
+               <head>160</head>
+               <l>
+                  <hi>Indicio,</hi> accersens <hi>testes</hi> audacia <hi>Soles.</hi>
+               </l>
+               <l>
+                  <hi>Numinis</hi> &amp; si quem, aut <hi>Legum Reverentia</hi> fraenat,</l>
+               <l>Aut <hi>pudor</hi> ingenuos defendit crimine mores;</l>
+               <l>Si quis <hi>voce</hi> monet, <hi>vita{que}</hi> redarguit; ultro</l>
+               <l>Intentant <hi>odia,</hi> &amp; bello bacchantur <hi>aperto.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>166</head>
+               <l>Talis ab <hi>acclivi</hi> descendens <hi>vertice Torrens,</hi>
+               </l>
+               <l>Ebrius <hi>epotis nivibus</hi> quas fundit ab altis</l>
+               <l>Ver <hi>Haemi Taurive</hi> jugis, at{que} auctior <hi>Imbre,</hi>
+               </l>
+               <l>Discutit objectas <hi>Moles,</hi> &amp; gurgite vasto</l>
+               <l>
+                  <hi>Saxa</hi> rotat, volvit{que} <hi>trabes, scopulis{que}</hi> minatur</l>
+            </lg>
+            <lg>
+               <head>170</head>
+               <l>Spumeus, <hi>illisa{que}</hi> sonat circumfluus <hi>unda.</hi>
+               </l>
+               <l>Heu <hi>saeclum</hi> immersum <hi>vitiis,</hi> cui lethifer omne</l>
+               <l>Immisit Serpens <hi>Barathrum;</hi> cui <hi>Lerna</hi> profana</l>
+               <l>Ebullit <hi>sanie,</hi> multa{que} repullulat <hi>Hydra</hi>
+               </l>
+               <l>Incestans <hi>diris</hi> praecordia faeta venenis!</l>
+            </lg>
+            <lg>
+               <head>175</head>
+               <l>
+                  <hi>Prima</hi> peregrinos imita ta <hi>Superbia</hi> luxus,</l>
+               <l>Exuit <hi>antiquos</hi> queis floruit Anglia, <hi>Mores.</hi>
+               </l>
+               <l>
+                  <hi>Ambigui</hi> hinc Maribus <hi>cultus,</hi> mentem{que} professae</l>
+               <l>
+                  <hi>Munditiae</hi> imbellem: <hi>speculis</hi> impenditur aetas,</l>
+               <l>Quam poscunt <hi>Musae,</hi> quam poscit mascula <hi>virtus:</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>180</head>
+               <l>Labitur &amp; nullo <hi>Tempus</hi> reparabile censu,</l>
+               <l>Dum <hi>coma</hi> solerti docilis <hi>crispata</hi> labore</l>
+               <l>Cogitur artifici <hi>lascivos</hi> pectine in <hi>orbes;</hi>
+               </l>
+               <l>Et sordet maculis <hi>facies</hi> distincta <hi>virilis,</hi>
+               </l>
+               <pb n="8" facs="tcp:57464:23"/>
+               <l>
+                  <hi>Fingilur</hi> in{que} modum <hi>teneri</hi> medicamine <hi>Sexus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>185</head>
+               <l>
+                  <hi>Semiviro{que}</hi> Viros pariter mentitur <hi>amictu</hi>
+               </l>
+               <l>
+                  <hi>Foemina,</hi> &amp; illicitos <hi>proclivior</hi> excitat <hi>Ignes.</hi>
+               </l>
+               <l>
+                  <hi>Ingenio{que}</hi> procax scurris <hi>audacia</hi> Certat;</l>
+               <l>Provocat &amp; <hi>salibus</hi> risus, <hi>plausus{que} Theatri</hi>
+               </l>
+               <l>Ambit, in immunda <hi>non ficta protervia</hi> Scena.</l>
+            </lg>
+            <lg>
+               <head>190</head>
+               <l>At{que} <hi>insuspecti</hi> spernens consortia <hi>sexus,</hi>
+               </l>
+               <l>Cum <hi>dubia</hi> vitanda cupit commercia <hi>fama.</hi>
+               </l>
+               <l>Hic <hi>lusus choreae{que}</hi> placent, ultro{que} petitae</l>
+               <l>Saepe <hi>suburbanae</hi> maribus comitantibus <hi>umbrae.</hi>
+               </l>
+               <l>Istis <hi>ingenuae</hi> studiis celebrantur; &amp; istis</l>
+            </lg>
+            <lg>
+               <head>195</head>
+               <l>Plus omni fugitur metuenda <hi>infamia</hi> probro,</l>
+               <l>
+                  <hi>Rusticitas;</hi> produnt <hi>agrestes</hi> altera <hi>Mores;</hi>
+               </l>
+               <l>Et <hi>bene moratam</hi> faciunt quaecun{que} <hi>puellam,</hi>
+               </l>
+               <l>
+                  <hi>Projecti</hi> totidem sunt Argumenta <hi>pudoris.</hi>
+               </l>
+               <l>Nec <hi>dapibus</hi> tam <hi>pulsa</hi> Fames, quam <hi>pasta</hi> libido est</l>
+            </lg>
+            <lg>
+               <head>200</head>
+               <l>Immodicis; <hi>pretio{que}</hi> Gulae servitur, &amp; <hi>Arte,</hi>
+               </l>
+               <l>Ex quo <hi>frugales</hi> infecit <hi>Gallia mensas,</hi>
+               </l>
+               <l>Et <hi>compilatum</hi> patinis immiscuit <hi>Orbem.</hi>
+               </l>
+               <l>Unde <hi>furit</hi> rursus <hi>medicato</hi> fota <hi>veneno,</hi>
+               </l>
+               <l>Faeda{que} <hi>prostratas</hi> reparat Lascivia <hi>vires.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>205</head>
+               <l>Tu quo{que} <hi>Gentili</hi> vitio, <hi>Germania,</hi> nostris</l>
+               <l>Accedis <hi>Titulis:</hi> &amp; quae non vinceris <hi>Armis,</hi>
+               </l>
+               <l>Victa jaces cyathis, Patera spumante <hi>triumphat</hi>
+               </l>
+               <l>
+                  <hi>Ebrietas;</hi> instat{que} <hi>scyphis, leges{que}</hi> bibendi</l>
+               <l>Constituit petulans, &amp; <hi>magno Nomine</hi> firmat.</l>
+            </lg>
+            <lg>
+               <head>210</head>
+               <l>Hinc detrectandi pudor est, <hi>ardor{que}</hi> vicissim</l>
+               <pb n="9" facs="tcp:57464:23"/>
+               <l>
+                  <hi>Ʋrgendi;</hi> donec mersa ratione, <hi>furores</hi>
+               </l>
+               <l>Concipuunt, foedis{que} calent praecordia <hi>flammis.</hi>
+               </l>
+               <l>Haud secus <hi>illuvie</hi> squalent cum <hi>rura Canopi,</hi>
+               </l>
+               <l>Hauserit <hi>immodicum</hi> si glebae spongia <hi>Nilum;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>215</head>
+               <l>Abdita Sole tepent <hi>genitalia semina</hi> limi,</l>
+               <l>Et <hi>coenosa novis</hi> animantur <hi>gramina Monstris.</hi>
+               </l>
+               <l>Est quo{que} <hi>jurati</hi> vacuis sermonibus addens</l>
+               <l>
+                  <hi>Nomina</hi> magna <hi>Dei.</hi> Nec pulsat densius aedes</l>
+               <l>Cum resilit <hi>crepitante</hi> repulsus <hi>verbere</hi> grando,</l>
+            </lg>
+            <lg>
+               <head>220</head>
+               <l>Et repetunt coelum <hi>solidatae</hi> frigore <hi>Guttae:</hi>
+               </l>
+               <l>Nec <hi>gemit</hi> alternis quae tunditur ictibus <hi>incus</hi>
+               </l>
+               <l>Crebrius, ad <hi>numerum</hi> cum tollit brachia <hi>Cyclops,</hi>
+               </l>
+               <l>Versat &amp; <hi>ignitum</hi> dentato forcipe <hi>ferrum:</hi>
+               </l>
+               <l>Quam <hi>strepit,</hi> ingratis{que} <hi>obtundit</hi> vocibus <hi>aures,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>225</head>
+               <l>
+                  <hi>Lingua</hi> procax <hi>spreto</hi> dicens convitia <hi>coelo.</hi>
+               </l>
+               <l>Scilicet, <hi>his</hi> culti <hi>facundia</hi> germinat <hi>oris</hi>
+               </l>
+               <l>
+                  <hi>Floribus;</hi> &amp; tali <hi>pensantur</hi> pondere <hi>verba!</hi>
+               </l>
+               <l>Adde, quod in <hi>Scena</hi> lasciva <hi>licentia</hi> regnat.</l>
+               <l>Obscoenis ubi <hi>scurra</hi> jocis <hi>ridenda</hi> propinat</l>
+               <l>
+                  <hi>Sacra;</hi> movet{que} leves dum <hi>personata</hi> cachinnos</l>
+            </lg>
+            <lg>
+               <head>230</head>
+               <l>
+                  <hi>Relligio,</hi> a mittit <hi>veros</hi> labefacta <hi>timores.</hi>
+               </l>
+               <l>Proh <hi>lenocinium scelerum,</hi> quae perditus Actor</l>
+               <l>Aut <hi>discit fingendo,</hi> aut <hi>fingere discit</hi> ab usu!</l>
+               <l>
+                  <hi>Spect anti{que}</hi> labat <hi>Virtus; plausu{que}</hi> recepta</l>
+            </lg>
+            <lg>
+               <head>235</head>
+               <l>Tnrpia <hi>congeneres</hi> formant immitamina <hi>Mores.</hi>
+               </l>
+               <l>Hinc <hi>trahit</hi> illicitas <hi>acuit{que}</hi> Cupido sagittas;</l>
+               <l>Hinc <hi>scortis</hi> foecunda <hi>seges;</hi> fervet{que} <hi>lupanar</hi>
+               </l>
+               <pb n="10" facs="tcp:57464:24"/>
+               <l>Saeva <hi>charybdis</hi> opum, nullis{que} explenda <hi>vorago</hi>
+               </l>
+               <l>
+                  <hi>Naufragiis;</hi> mala <hi>lucra</hi> comes quia punit <hi>egestas.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>240</head>
+               <l>Hoc <hi>tyrocinio</hi> formatur ad <hi>Arma juventus?</hi>
+               </l>
+               <l>
+                  <hi>Frangitur,</hi> (heu!) <hi>stupris</hi> virtus; vexilla, tubae{que}</l>
+               <l>
+                  <hi>Mollescunt,</hi> luxus{que} truces <hi>effoeminat</hi> Enses.</l>
+               <l>Hinc merito <hi>insultant Hostes,</hi> facilis{que} volenti</l>
+               <l>Cuivis <hi>praeda</hi> sumus, nec habet victoria <hi>Laudem.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>245</head>
+               <l>O <hi>conclamatam</hi> Gentem, cui <hi>languida</hi> torpent.</l>
+               <l>
+                  <hi>Viscera;</hi> pressa <hi>salit</hi> ne{que} docto pollice <hi>Vena;</hi>
+               </l>
+               <l>At{que} <hi>extincta</hi> jacent <hi>rediturae</hi> semina <hi>vitae!</hi>
+               </l>
+               <l>Condonanda tamen <hi>Solis</hi> nocitura Libido</l>
+               <l>
+                  <hi>Innuptis.</hi> Atrox &amp; detestabile c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imen</l>
+            </lg>
+            <lg>
+               <head>250</head>
+               <l>
+                  <hi>Conjugii</hi> violatus <hi>Honos,</hi> tedae{que} jugalis</l>
+               <l>Obtentu, <hi>vetitos</hi> celans Hymenaeus <hi>amores.</hi>
+               </l>
+               <l>Consensu <hi>Thalami</hi> calcantur <hi>Jura;</hi> favent{que}</l>
+               <l>Conjurata suis <hi>genialia foedera</hi> probris.</l>
+               <l>Nec <hi>placet</hi> esse <hi>imitando</hi> malos. <hi>Exempla creantur</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>255</head>
+               <l>Quae superent <hi>Sodomae luxus,</hi> &amp; <hi>stupra Gomorrhae.</hi>
+               </l>
+               <l>O bene, <hi>coelestes</hi> quod nondum sensimus <hi>Ignes!</hi>
+               </l>
+               <l>
+                  <hi>Anglia,</hi> parce <hi>Deo, flammae{que}</hi> agnosce <hi>minori.</hi>
+               </l>
+               <l>Debueras <hi>non passa pati:</hi> Vindicta <hi>Tonantis</hi>
+               </l>
+               <l>
+                  <hi>Intra exempla</hi> stetit, <hi>justos{que}</hi> coercuit <hi>aestus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>260</head>
+               <l>Dum Te vicerunt <hi>Poena,</hi> quos <hi>Crimine</hi> vincis,</l>
+               <l>Da lucro, <hi>meritum</hi> quas sic <hi>praeponderat,</hi> Iras.</l>
+               <l>
+                  <hi>Vos</hi> quoque, coelesti fulgentes lumine <hi>Mystae.</hi>
+               </l>
+               <l>Poscimus obnixe <hi>Veniam,</hi> dum probra <hi>Verendae</hi>
+               </l>
+               <l>Foeda <hi>Tribus,</hi> meritis exercet <hi>Musa</hi> flagellis,</l>
+            </lg>
+            <lg>
+               <head>265</head>
+               <l>Justa{que} <hi>poscenti</hi> praebet spectacula <hi>Mundo.</hi>
+               </l>
+               <pb n="11" facs="tcp:57464:24"/>
+               <l>
+                  <hi>Vos</hi> certe, O sancta <hi>Patres Pietate probati,</hi>
+               </l>
+               <l>Coelica qui <hi>pura</hi> firmatis dogmata <hi>vita,</hi>
+               </l>
+               <l>Et <hi>toto</hi> premitis <hi>Christi</hi> vestigia <hi>gressu;</hi>
+               </l>
+               <l>
+                  <hi>Nulla</hi> inscripta meo <hi>Maculabit</hi> pagina <hi>Versu.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>270</head>
+               <l>At <hi>vos,</hi> O quali <hi>(divinae</hi> turpia <hi>Sectae</hi>
+               </l>
+               <l>Propudia) insecter Calamo! Non si mihi totis</l>
+               <l>Bulliat in venis quo <hi>fictum</hi> devovet <hi>Ibin</hi>
+               </l>
+               <l>
+                  <hi>Battiades</hi> virus; <hi>Soceri</hi> vel <hi>Sanguine</hi> tinctus</l>
+               <l>
+                  <hi>Spartani Vatis</hi> chartas sulcaret <hi>Jambus;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>275</head>
+               <l>In <hi>vos</hi> pro meritis satis <hi>excandesceret Ira.</hi>
+               </l>
+               <l>Pro foedos <hi>scelerum Praecones,</hi> tristia saecli</l>
+               <l>
+                  <hi>Portenta,</hi> &amp; cunctis <hi>famam</hi> minuentia <hi>Monsiris?</hi>
+               </l>
+               <l>Quinetiam ipse stupet vinci <hi>Dominator Averni</hi>
+               </l>
+               <l>A <hi>vobis;</hi> sese{que} dolet <hi>minus</hi> esse <hi>nocentem.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>280</head>
+               <l>Quam <hi>pudet,</hi> expositum pueris titubante <hi>Ministrum</hi>
+               </l>
+               <l>Poplite, &amp; <hi>incerto</hi> nutantem incedere <hi>gressu!</hi>
+               </l>
+               <l>Quam male conveniunt, <hi>niveos</hi> cnm tingit <hi>amictus</hi>
+               </l>
+               <l>Ebrietate <hi>rubens</hi> at{que} ipsis <hi>concolor uvis</hi>
+               </l>
+               <l>
+                  <hi>Nasus,</hi> &amp; <hi>impressis</hi> facies distincta <hi>racemis:</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>285</head>
+               <l>
+                  <hi>Ructus</hi> &amp; <hi>hesterni</hi> sacris permistus <hi>Jacchi!</hi>
+               </l>
+               <l>
+                  <hi>Alea</hi> sin damnosa juvat, si <hi>Ganea</hi> turpis</l>
+               <l>
+                  <hi>Presbyterum;</hi> si multa remissis <hi>otia</hi> chartis</l>
+               <l>Induxere <hi>situm;</hi> nemorum si praeda <hi>sagaces</hi>
+               </l>
+               <l>Exercet <hi>Catulos; ferrata calce</hi> superbus</l>
+            </lg>
+            <lg>
+               <head>290</head>
+               <l>Si foditur <hi>sonipes,</hi> properat dum <hi>carcere</hi> pulso</l>
+               <l>Ad <hi>metam,</hi> socios{que} cupit <hi>praevertere cursu;</hi>
+               </l>
+               <l>
+                  <hi>Pignore</hi> si posito <hi>cristatus</hi> dimicat <hi>Ales,</hi>
+               </l>
+               <l>Et strepit in <hi>Cavea</hi> quam poscunt <hi>Pulpita,</hi> lingua;</l>
+               <pb n="12" facs="tcp:57464:25"/>
+               <l>Forsitan &amp; ritu <hi>teritur</hi> jurata profano</l>
+            </lg>
+            <lg>
+               <head>295</head>
+               <l>
+                  <hi>Coelica Majestas: Magno</hi> peccatur ubi{que}</l>
+               <l>
+                  <hi>Exemplo,</hi> &amp; <hi>tali</hi> nil non <hi>Authore</hi> levatur.</l>
+               <l>Displicet &amp; multis <hi>furor</hi> irrequietus <hi>habendi:</hi>
+               </l>
+               <l>Cum mersus Mundo <hi>licitatur Templa Sacerdos,</hi>
+               </l>
+               <l>Et <hi>(sacra</hi> stimulante <hi>fame)</hi> de glutit, hiatq,</l>
+            </lg>
+            <lg>
+               <head>300</head>
+               <l>Poscendi <hi>rabies;</hi> at{que} infinita <hi>vorago</hi>
+               </l>
+               <l>
+                  <hi>Crescit</hi> ab <hi>ingestis, cumulo{que} capacior</hi> ipsa est.</l>
+               <l>Spernitur &amp; cuicun{que} <hi>sacer</hi> quam postulat <hi>Ordo</hi>
+               </l>
+               <l>Defpicitur <hi>gravitas:</hi> sive affectata <hi>jocandi</hi>
+               </l>
+               <l>Mimica <hi>Libertas</hi> verborum <hi>pondera</hi> frangit;</l>
+            </lg>
+            <lg>
+               <head>305</head>
+               <l>Sive <hi>levis</hi> geritur <hi>vestitus; Taenia</hi> amictu</l>
+               <l>Dum fluit <hi>immodica,</hi> aut cincinnis <hi>Clericus</hi> ambit</l>
+               <l>Pendentem ex humeris <hi>alieni crinis</hi> honorem;</l>
+               <l>Et <hi>muliebre decus</hi> sparsum <hi>cervice virili,</hi>
+               </l>
+               <l>
+                  <hi>Funditur</hi> in <hi>ventos,</hi> &amp; <hi>molles</hi> spirat <hi>odores.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>310</head>
+               <l>Hinc <hi>stupor</hi> at{que} <hi>odium populis,</hi> dum snstinet audax</l>
+               <l>
+                  <hi>Contemptum Mundi,</hi> &amp; <hi>Patriae coelestis amorem</hi>
+               </l>
+               <l>Ingerere, &amp; <hi>vita</hi> pudefiunt dicta <hi>negante.</hi>
+               </l>
+               <l>
+                  <hi>Poscitur</hi> hinc <hi>ejecta Cohors,</hi> populi{que} favore</l>
+               <l>
+                  <hi>Regnat, inoffensa</hi> peragit dum Munia <hi>vita.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>315</head>
+               <l>
+                  <hi>Templa{que}</hi> nudantur <hi>Turbis,</hi> dum (Lege vetante)</l>
+               <l>
+                  <hi>Privatos</hi> augent Pastorum Scandala <hi>caetus.</hi>
+               </l>
+               <l>
+                  <hi>Publicus</hi> &amp; fugitur <hi>Cultus;</hi> sordescere <hi>Ritus</hi>
+               </l>
+               <l>Incipiunt; toti{que} labat reverentia <hi>Clero:</hi>
+               </l>
+               <l>Dum{que} <hi>suos</hi> praefert Morum probitate <hi>Magistros,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>320</head>
+               <l>Imputat <hi>invidiae</hi> Vulgus <hi>discrimina Honorum.</hi>
+               </l>
+               <pb n="13" facs="tcp:57464:25"/>
+               <l>Sed neque divisis <hi>justa</hi> est <hi>occasio</hi> Turmis,</l>
+               <l>Hinc, quasi <hi>pollutos,</hi> sacrorum temnere <hi>Fontes;</hi>
+               </l>
+               <l>Et <hi>Coelo</hi> missas, <hi>Corvo</hi> fortasse <hi>Ministro,</hi>
+               </l>
+               <l>Incusare <hi>dapes.</hi> Insana est <hi>Nausea,</hi> saevam</l>
+            </lg>
+            <lg>
+               <head>325</head>
+               <l>Quae praefert to lerare <hi>Famem,</hi> quam velle <hi>salubrem</hi>
+               </l>
+               <l>
+                  <hi>Illota</hi> famulante <hi>manu,</hi> quae traditur, <hi>Escam.</hi>
+               </l>
+               <l>Discite item, quorum <hi>produnt</hi> fastidia <hi>Morbum,</hi>
+               </l>
+               <l>Posse vel in <hi>nitida</hi> misceri <hi>Lance</hi> venena;</l>
+               <l>Noxia{que} <hi>auratis</hi> hauriri toxica <hi>vasis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>330</head>
+               <l>Et <hi>suspect a minus, laedunt magis.</hi> Impia certe</l>
+               <l>(Ut cun{que} <hi>impurus</hi> cumulet <hi>sibi</hi> damna <hi>Sacerdos)</hi>
+               </l>
+               <l>Plus <hi>alios</hi> tangunt, <hi>infami</hi> dogmata <hi>vita.</hi>
+               </l>
+               <l>
+                  <hi>Privato{que}</hi> (malo si quis Pastore gravatur)</l>
+               <l>Quod <hi>multis</hi> noceat, redimendum est <hi>Schisma</hi> periclo.</l>
+            </lg>
+            <lg>
+               <head>335</head>
+               <l>
+                  <hi>Schisma,</hi> Anglis <hi>Faecunda</hi> lues, &amp; <hi>pronuba</hi> dirae</l>
+               <l>
+                  <hi>Haereseos! Centum,</hi> Te procurante, seruntur</l>
+               <l>(Grammatici indulgete) <hi>Fides.</hi> Te{que} <hi>Arjete,</hi> vasto</l>
+               <l>Dissilit (ah!) <hi>Templi Paries</hi> concussus <hi>hiatu.</hi>
+               </l>
+               <l>Hei mihi! quas <hi>strages animarum</hi> prodidit <hi>Aetas</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>340</head>
+               <l>
+                  <hi>Infelix;</hi> omnes dum palabundus <hi>oberrat</hi>
+               </l>
+               <l>In partes <hi>Christi Grex unicus,</hi> at{que} rapaci</l>
+               <l>Dente minax, <hi>sparso</hi> Lupus insidiatur <hi>ovili!</hi>
+               </l>
+               <l>Hic <hi>fugit, assuetos</hi> geminet quod <hi>Fistula Cantus;</hi>
+               </l>
+               <l>Carpere quod <hi>genibus</hi> poscatur pabula <hi>flexis;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>345</head>
+               <l>
+                  <hi>Lintea</hi> quod tergo gestet <hi>velamina</hi> Pastor,</l>
+               <l>Candida &amp; <hi>infami</hi> distinguat vellera <hi>Signo.</hi>
+               </l>
+               <l>
+                  <hi>Tingendos</hi> illi subducunt Fontibus <hi>Agnos,</hi>
+               </l>
+               <l>In{que} vicem sese <hi>petulanter</hi> Gurgite <hi>mergunt.</hi>
+               </l>
+               <pb n="14" facs="tcp:57464:26"/>
+               <l>Sunt, qui <hi>Ductores</hi> Gregis ad <hi>suffragia</hi> poscunt;</l>
+            </lg>
+            <lg>
+               <head>350</head>
+               <l>Et de <hi>diversis</hi> permiscent Bella <hi>Magistris.</hi>
+               </l>
+               <l>Nempe, istis <hi>Corydon,</hi> illis praefertur <hi>Alexis,</hi>
+               </l>
+               <l>His tu, <hi>(Mopse)</hi> places, aliis arridet <hi>Amyntas;</hi>
+               </l>
+               <l>Alter amat <hi>neutrum,</hi> &amp; pars multo maxima, <hi>nullum;</hi>
+               </l>
+               <l>
+                  <hi>Libera</hi> sed mavult Campi <hi>commercia,</hi> &amp; ipsis</l>
+            </lg>
+            <lg>
+               <head>355</head>
+               <l>Succenset <hi>Stabulis,</hi> &amp; <hi>Crates</hi> transilit omnes:</l>
+               <l>Donec <hi>Romuleas,</hi> multis erroribus acta,</l>
+               <l>Cogitur in <hi>caulas;</hi> &amp; vanos ipsa <hi>Timores</hi>
+               </l>
+               <l>Quos <hi>fugit</hi> imprudens, <hi>vitando</hi> certius <hi>implet.</hi>
+               </l>
+               <l>Hosne <hi>Deo fruct us,</hi> hos gratae mentis <hi>honores</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>360</head>
+               <l>Redditis <hi>Angligenae;</hi> quos sacra <hi>Voce profundis</hi>
+               </l>
+               <l>
+                  <hi>Saltibus</hi> implicitos <hi>secura</hi> in <hi>Pascua</hi> duxit?</l>
+               <l>Quos rexit <hi>Dux</hi> ipse <hi>Pedo,</hi> quos <hi>cespite laeto</hi>
+               </l>
+               <l>Impletos, <hi>liquido</hi> recreavit <hi>Fonte</hi> benignus;</l>
+               <l>Arcuit &amp; <hi>vigili</hi> funesta pericula <hi>Cura?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>365</head>
+               <l>
+                  <hi>Siccine</hi> apud memores <hi>tanti</hi> stat gratia <hi>facti?</hi>
+               </l>
+               <l>
+                  <hi>Siccine</hi> post <hi>sparsas</hi> foecundo semine <hi>glebas</hi>
+               </l>
+               <l>Speranti <hi>infelix</hi> Domino mentitur <hi>agellus?</hi>
+               </l>
+               <l>Quem{que} magis <hi>tumidis</hi> decuit flavescere <hi>aristis,</hi>
+               </l>
+               <l>Horrea{que} <hi>immensa</hi> turgentia rumpere <hi>Messe,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>370</head>
+               <l>Triste refert <hi>lolium,</hi> vel inanes Campus <hi>avenas?</hi>
+               </l>
+               <l>Et miramur adhac, cur tanto ferveat <hi>aestu</hi>
+               </l>
+               <l>
+                  <hi>Ignis,</hi> &amp; <hi>excidio</hi> speciosae gestiat <hi>Ʋrbis,</hi>
+               </l>
+               <l>Dum summa exuperat <hi>victrix</hi> fastigia <hi>Teda?</hi>
+               </l>
+               <l>Miramur, <hi>volucres</hi> agitari turbine <hi>flammas,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>375</head>
+               <l>Sparsa{que} in <hi>obliquos</hi> dominari Incendia <hi>gyros,</hi>
+               </l>
+               <l>
+                  <hi>Omnia</hi> dum in nostras <hi>conspirant flamina clades!</hi>
+               </l>
+               <pb n="15" facs="tcp:57464:26"/>
+               <l>Quin potius <hi>miranda Dei Clementia,</hi> in uno</l>
+               <l>Quae stetit <hi>excidio.</hi> Gratis <hi>Altaria</hi> donis</l>
+               <l>Ornanda, &amp; <hi>dulces</hi> adolendi Thuris <hi>honores;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>380</head>
+               <l>Mista{que} cum <hi>gemitu</hi> fundenda <hi>precantia verba,</hi>
+               </l>
+               <l>Tandem ut <hi>pacata</hi> dignetur fronte <hi>Britannos</hi>
+               </l>
+               <l>Respicere; &amp; <hi>saevos</hi> rursus mollire <hi>furores.</hi>
+               </l>
+               <l>Quid juvat <hi>obscuros</hi> tantum infestare <hi>Querelis</hi>
+               </l>
+               <l>
+                  <hi>Authores Cladum? Nostra</hi> haec Incendia, Cives,</l>
+            </lg>
+            <lg>
+               <head>385</head>
+               <l>
+                  <hi>Crimina</hi> sparserunt: <hi>Nos</hi> saevo <hi>alimenta</hi> calori</l>
+               <l>
+                  <hi>Praebuimus: paucos{que}</hi> licet furiosa popelli</l>
+               <l>Suspicio exagitet <hi>sontes,</hi> (si <hi>vera</hi> fatemur)</l>
+               <l>
+                  <hi>Nulla</hi> ministerio tristi <hi>Manus</hi> abfuit. <hi>Omnes</hi>
+               </l>
+               <l>
+                  <hi>Arguimur,</hi> quae <hi>conquerimur,</hi> fecisse <hi>merendo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>390</head>
+               <l>Haec <hi>Olim,</hi> certe, funesta <hi>piacula</hi> Coelo</l>
+               <l>
+                  <hi>Anglia</hi> debebas; nec adhuc <hi>aequalia</hi> pendis.</l>
+               <l>Lapsa{que} ni <hi>redimas</hi> meliori crimina <hi>fructu,</hi>
+               </l>
+               <l>
+                  <hi>Consumptas</hi> frustra <hi>poenis</hi> speraveris <hi>iras.</hi>
+               </l>
+               <l>Quin agite, O <hi>rerum</hi> quibus est commissa <hi>Potestas;</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>395</head>
+               <l>Tu{que} simul, <hi>juncto</hi> jam, <hi>CAROLE</hi> Magne, <hi>Senatu</hi>
+               </l>
+               <l>
+                  <hi>Fortior,</hi> &amp; <hi>triplici</hi> firmatis <hi>foedere</hi> Sceptris,</l>
+               <l>
+                  <hi>Surgite</hi> magnanimi, &amp; <hi>prohibete</hi> Penatibus <hi>Ignes.</hi>
+               </l>
+               <l>In tenues <hi>Ʋrbs una</hi> jacet resoluta <hi>favillas:</hi>
+               </l>
+               <l>A <hi>reliquis</hi> arcete <hi>Faces.</hi> Par Causa <hi>furores</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>400</head>
+               <l>
+                  <hi>Expertis</hi> dabit us{que} <hi>pares,</hi> nisi justa <hi>furentes</hi>
+               </l>
+               <l>Comprimat immistos <hi>Catilinis</hi> poena <hi>Cethegos.</hi>
+               </l>
+               <l>
+                  <hi>Publica</hi> quos poscit stragis <hi>vindicta</hi> Ministros,</l>
+               <l>
+                  <hi>Potrahite etenebris; Vestros</hi> absolvite <hi>Fasces.</hi>
+               </l>
+               <pb n="16" facs="tcp:57464:27"/>
+               <l>Nec liceat cuiquam, <hi>nobis</hi> impune <hi>nocendo,</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>405</head>
+               <l>
+                  <hi>Ʋltores scelerum</hi> pariter fecisse <hi>nocentes.</hi>
+               </l>
+               <l>Saltem agnoscamus, <hi>Leges</hi> in <hi>Pace timendas</hi>
+               </l>
+               <l>Nolebant quas <hi>Bella pati:</hi> justo{que} docete</l>
+               <l>Supplicio, <hi>Patriae</hi> metuendam <hi>Vindicis</hi> Iram.</l>
+               <l>Quae{que} <hi>Deum</hi> simul <hi>infensum</hi> scelerata dederunt</l>
+            </lg>
+            <lg>
+               <head>410</head>
+               <l>
+                  <hi>Flagitia, Exemplis</hi> minuat conjuncta <hi>Potestas.</hi>
+               </l>
+               <l>
+                  <hi>Aethereas</hi> prohibete <hi>minas,</hi> ne <hi>Numine laeso</hi>
+               </l>
+               <l>
+                  <hi>Saeviat</hi> ulterius summi <hi>vindicta Tonantis.</hi>
+               </l>
+               <l>Ante <hi>focos delicta</hi> cadant; hac <hi>caede</hi> luatur</l>
+               <l>Quicquid ab <hi>irato</hi> metuit Gens impia <hi>Coelo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>415</head>
+               <l>
+                  <hi>Lustrandae</hi> poenis <hi>Ʋrbes,</hi> ipsis{que} <hi>litandum</hi>
+               </l>
+               <l>
+                  <hi>Prodigiis</hi> scelerum. Sic, sic, placabitis <hi>Aras.</hi>
+               </l>
+               <l>Quinetiam, his tandem auspiciis <hi>AƲGƲSTA</hi> resurget</l>
+               <l>
+                  <hi>Clarior;</hi> &amp; levibus mutatis <hi>Marmore</hi> lignis,</l>
+               <l>
+                  <hi>Firmior;</hi> inscribens <hi>Titulis</hi> nova Maenia <hi>vestris.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>420</head>
+               <l>
+                  <hi>Nostra{que} Pestis</hi> adhuc quae tristi lurida <hi>Tabo,</hi>
+               </l>
+               <l>
+                  <hi>Sanguine Mars,</hi> nigro <hi>Carbone Incendia</hi> signant;</l>
+               <l>
+                  <hi>Aurea</hi> venturis fulgebunt <hi>Tempora</hi> Fastis.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
